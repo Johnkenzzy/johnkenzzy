@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johnkennedy</h1>
 <h3 align="center">An enthusiastic software engineer on a mission to explore the diverse and ever-evolving landscape of software engineering, discovering new possibilities with every line of code.</h3><br>
 
-<h3 align="center">Welcome to my space, It's nice to have you here.</h3><br>
+<h3 align="center">Welcome to my space, It's nice to have you here.</h3><br><br>
 
---
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnkenzzy&label=Profile%20views&color=0e75b6&style=flat" alt="johnkenzzy" /> </p>
 
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/johnkenzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnkenzzy" height="30" width="40" /></a><br>
-<a href="https://twitter.com/jkenzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkenzzy" height="30" width="40" /></a><br>
+<a href="https://codepen.io/johnkenzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnkenzzy" height="30" width="40" /></a><br><br>
+<a href="https://twitter.com/jkenzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkenzzy" height="30" width="40" /></a><br><br>
 <a href="https://linkedin.com/in/johnkennedy umeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkennedy umeh" height="30" width="40" /></a>
-</p><br>
+</p><br><br>
 
 ---
 
