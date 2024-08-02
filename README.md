@@ -6,6 +6,10 @@
 
 ---
 
-![johnkenzzy's Stats](https://github-readme-stats.vercel.app/api?username=johnkenzzy&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![johnkenzzy's Stats](https://github-readme-stats.vercel.app/api?username=johnkenzzy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![johnkenzzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnkenzzy&theme=vue-dark&hide_border=false)
+
+![johnkenzzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkenzzy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
