@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnkenzzy&label=Profile%20views&color=0e75b6&style=flat" alt="johnkenzzy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jkenzzy" target="blank"><img src="https://img.shields.io/twitter/follow/jkenzzy?logo=twitter&style=for-the-badge" alt="jkenzzy" /></a> </p><br>
+<p align="left"> <a href="https://twitter.com/jkenzzy" target="blank"><img src="https://img.shields.io/twitter/follow/jkenzzy?logo=twitter&style=for-the-badge" alt="jkenzzy" /></a> </p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
