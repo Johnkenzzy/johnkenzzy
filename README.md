@@ -16,7 +16,7 @@
 <a href="https://codepen.io/johnkenzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnkenzzy" height="30" width="40" /></a><br><br>
 <a href="https://twitter.com/jkenzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jkenzzy" height="30" width="40" /></a><br><br>
 <a href="https://linkedin.com/in/johnkennedy umeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkennedy umeh" height="30" width="40" /></a>
-</p><br>
+</p>
 
 ---
 
