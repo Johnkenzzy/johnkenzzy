@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnkennedy</h1>
-<h3 align="center">An enthusiastic Software Engineer student at ALX/Holberton School on a mission to explore the diverse and ever-evolving landscape of software engineering, discovering new possibilities with every line of code.</h3><br>
+<h3 align="center">An enthusiastic Software Engineering student at ALX/Holberton School on a mission to explore the diverse and ever-evolving landscape of software engineering, discovering new possibilities with every line of code.</h3><br>
 
 <h3 align="center">Welcome to my space, It's nice to have you here.</h3><br><br>
 
