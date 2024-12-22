@@ -64,13 +64,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="300" src="https://media2.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47u9t97ig6dzrhyhwl761uhppd3ulbnl8ndsiyc98u&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+  <img height="350" width="400" src="https://media2.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47u9t97ig6dzrhyhwl761uhppd3ulbnl8ndsiyc98u&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
 </div>
 
-###
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnkenzzy&show_icons=true&locale=en&layout=compact" alt="johnkenzzy" /></p>
 
