@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
-  <img height="350" width="400" src="https://media2.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47u9t97ig6dzrhyhwl761uhppd3ulbnl8ndsiyc98u&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+  <img height="350" width="400" src="[https://media2.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47u9t97ig6dzrhyhwl761uhppd3ulbnl8ndsiyc98u&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)"  />
 </div>
 
 ---
