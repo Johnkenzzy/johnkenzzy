@@ -45,74 +45,81 @@
 ### 💼 Skills
 
 #### 🖥️ Languages  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Python-informational?style&#x3D;for-the-badge&amp;logo&#x3D;python&amp;logoColor&#x3D;white&amp;color&#x3D;3776AB)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;JavaScript-informational?style&#x3D;for-the-badge&amp;logo&#x3D;javascript&amp;logoColor&#x3D;white&amp;color&#x3D;F7DF1E)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;TypeScript-informational?style&#x3D;for-the-badge&amp;logo&#x3D;typescript&amp;logoColor&#x3D;white&amp;color&#x3D;3178C6)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;C-informational?style&#x3D;for-the-badge&amp;logo&#x3D;c&amp;logoColor&#x3D;white&amp;color&#x3D;A8B9CC)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;R-informational?style&#x3D;for-the-badge&amp;logo&#x3D;r&amp;logoColor&#x3D;white&amp;color&#x3D;276DC3)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Shell_Script-informational?style&#x3D;for-the-badge&amp;logo&#x3D;gnu-bash&amp;logoColor&#x3D;white&amp;color&#x3D;4EAA25)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white&color=276DC3)
+![](https://img.shields.io/badge/Shell_Script-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
 
-#### ⚙️ Frameworks &amp; Libraries  
-  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Django-informational?style&#x3D;for-the-badge&amp;logo&#x3D;django&amp;logoColor&#x3D;white&amp;color&#x3D;092e20)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;FastAPI-informational?style&#x3D;for-the-badge&amp;logo&#x3D;fastapi&amp;logoColor&#x3D;white&amp;color&#x3D;009688)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Flask-informational?style&#x3D;for-the-badge&amp;logo&#x3D;flask&amp;logoColor&#x3D;white&amp;color&#x3D;000000)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Express-informational?style&#x3D;for-the-badge&amp;logo&#x3D;express&amp;logoColor&#x3D;white&amp;color&#x3D;000000)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;NestJS-informational?style&#x3D;for-the-badge&amp;logo&#x3D;nestjs&amp;logoColor&#x3D;white&amp;color&#x3D;e0234e)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Node.js-informational?style&#x3D;for-the-badge&amp;logo&#x3D;node.js&amp;logoColor&#x3D;white&amp;color&#x3D;339933)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;React-informational?style&#x3D;for-the-badge&amp;logo&#x3D;react&amp;logoColor&#x3D;white&amp;color&#x3D;61DBFB)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;TailwindCSS-informational?style&#x3D;for-the-badge&amp;logo&#x3D;tailwind-css&amp;logoColor&#x3D;white&amp;color&#x3D;22d3ee)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Sass-informational?style&#x3D;for-the-badge&amp;logo&#x3D;sass&amp;logoColor&#x3D;white&amp;color&#x3D;cc6699)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-informational?style&#x3D;for-the-badge&amp;logo&#x3D;html5&amp;logoColor&#x3D;white&amp;color&#x3D;e34c26)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-informational?style&#x3D;for-the-badge&amp;logo&#x3D;css3&amp;logoColor&#x3D;white&amp;color&#x3D;264de4)
+#### ⚙️ Frameworks & Libraries  
 
-&lt;details&gt;
-&lt;summary&gt;📂 More Skills&lt;&#x2F;summary&gt;
+**Backend**  
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092e20)
+![](https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
+![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000)
+![](https://img.shields.io/badge/NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=white&color=e0234e)
+![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 
-#### 🗄️ Databases &amp; ORMs  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;MongoDB-informational?style&#x3D;for-the-badge&amp;logo&#x3D;mongodb&amp;logoColor&#x3D;white&amp;color&#x3D;47A248)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;PostgreSQL-informational?style&#x3D;for-the-badge&amp;logo&#x3D;postgresql&amp;logoColor&#x3D;white&amp;color&#x3D;4169E1)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;MySQL-informational?style&#x3D;for-the-badge&amp;logo&#x3D;mysql&amp;logoColor&#x3D;white&amp;color&#x3D;4479A1)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;SQLite-informational?style&#x3D;for-the-badge&amp;logo&#x3D;sqlite&amp;logoColor&#x3D;white&amp;color&#x3D;003B57)  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;SQLAlchemy-informational?style&#x3D;for-the-badge&amp;logo&#x3D;python&amp;logoColor&#x3D;white&amp;color&#x3D;E34F26)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Mongoose-informational?style&#x3D;for-the-badge&amp;logo&#x3D;mongodb&amp;logoColor&#x3D;white&amp;color&#x3D;4DB33D)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Prisma-informational?style&#x3D;for-the-badge&amp;logo&#x3D;prisma&amp;logoColor&#x3D;white&amp;color&#x3D;2D3748)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Drizzle-informational?style&#x3D;for-the-badge&amp;logo&#x3D;drizzle&amp;logoColor&#x3D;white&amp;color&#x3D;FCD34D)
+**Frontend**  
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=22d3ee)
+![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=cc6699)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=e34c26)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
 
-#### 📜 APIs &amp; Documentation  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Tsoa-informational?style&#x3D;for-the-badge&amp;logo&#x3D;typescript&amp;logoColor&#x3D;white&amp;color&#x3D;3178C6)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Swagger-informational?style&#x3D;for-the-badge&amp;logo&#x3D;swagger&amp;logoColor&#x3D;white&amp;color&#x3D;85EA2D)
+---
 
-#### 🛠️ DevOps &amp; Infrastructure  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Fabric-informational?style&#x3D;for-the-badge&amp;logo&#x3D;python&amp;logoColor&#x3D;white&amp;color&#x3D;000000)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Puppet-informational?style&#x3D;for-the-badge&amp;logo&#x3D;puppet&amp;logoColor&#x3D;white&amp;color&#x3D;FFAE1A)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Apache-informational?style&#x3D;for-the-badge&amp;logo&#x3D;apache&amp;logoColor&#x3D;white&amp;color&#x3D;D22128)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Nginx-informational?style&#x3D;for-the-badge&amp;logo&#x3D;nginx&amp;logoColor&#x3D;white&amp;color&#x3D;009639)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HAProxy-informational?style&#x3D;for-the-badge&amp;logo&#x3D;haproxy&amp;logoColor&#x3D;white&amp;color&#x3D;1062A3)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Datadog-informational?style&#x3D;for-the-badge&amp;logo&#x3D;datadog&amp;logoColor&#x3D;white&amp;color&#x3D;632CA6)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Docker-informational?style&#x3D;for-the-badge&amp;logo&#x3D;docker&amp;logoColor&#x3D;white&amp;color&#x3D;2496ED)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Redis-informational?style&#x3D;for-the-badge&amp;logo&#x3D;redis&amp;logoColor&#x3D;white&amp;color&#x3D;DC382D)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Celery-informational?style&#x3D;for-the-badge&amp;logo&#x3D;celery&amp;logoColor&#x3D;white&amp;color&#x3D;37814A)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Gunicorn-informational?style&#x3D;for-the-badge&amp;logo&#x3D;gunicorn&amp;logoColor&#x3D;white&amp;color&#x3D;499848)
+<details>
+<summary>📂 More Skills</summary>
+<br>
 
-#### ☁️ Cloud &amp; Deployment  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Google_Cloud-informational?style&#x3D;for-the-badge&amp;logo&#x3D;googlecloud&amp;logoColor&#x3D;white&amp;color&#x3D;4285F4)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;AWS-informational?style&#x3D;for-the-badge&amp;logo&#x3D;amazonaws&amp;logoColor&#x3D;white&amp;color&#x3D;232F3E)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Render-informational?style&#x3D;for-the-badge&amp;logo&#x3D;render&amp;logoColor&#x3D;white&amp;color&#x3D;46E3B7)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Railway-informational?style&#x3D;for-the-badge&amp;logo&#x3D;railway&amp;logoColor&#x3D;white&amp;color&#x3D;0B0D0E)
+#### 🗄️ Databases & ORMs  
+![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)  
+![](https://img.shields.io/badge/SQLAlchemy-informational?style=for-the-badge&logo=python&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D)
+![](https://img.shields.io/badge/Prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=2D3748)
+![](https://img.shields.io/badge/Drizzle-informational?style=for-the-badge&logo=drizzle&logoColor=white&color=FCD34D)
 
-#### 🔧 Tools &amp; APIs  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;NPM-informational?style&#x3D;for-the-badge&amp;logo&#x3D;npm&amp;logoColor&#x3D;white&amp;color&#x3D;CB3837)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Postman-informational?style&#x3D;for-the-badge&amp;logo&#x3D;postman&amp;logoColor&#x3D;white&amp;color&#x3D;FF6C37)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;ThunderClient-informational?style&#x3D;for-the-badge&amp;logo&#x3D;visualstudiocode&amp;logoColor&#x3D;white&amp;color&#x3D;007ACC)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Hoppscotch-informational?style&#x3D;for-the-badge&amp;logo&#x3D;hoppscotch&amp;logoColor&#x3D;white&amp;color&#x3D;FF1B2D)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;GitHub-informational?style&#x3D;for-the-badge&amp;logo&#x3D;github&amp;logoColor&#x3D;white&amp;color&#x3D;181717)
+#### 📜 APIs & Documentation  
+![](https://img.shields.io/badge/Tsoa-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Swagger-informational?style=for-the-badge&logo=swagger&logoColor=white&color=85EA2D)
 
-#### 📊 Data Science &amp; AI  
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Pandas-informational?style&#x3D;for-the-badge&amp;logo&#x3D;pandas&amp;logoColor&#x3D;white&amp;color&#x3D;150458)
-![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;TensorFlow-informational?style&#x3D;for-the-badge&amp;logo&#x3D;tensorflow&amp;logoColor&#x3D;white&amp;color&#x3D;FF6F00)
+#### 🛠️ DevOps & Infrastructure  
+![](https://img.shields.io/badge/Fabric-informational?style=for-the-badge&logo=python&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Puppet-informational?style=for-the-badge&logo=puppet&logoColor=white&color=FFAE1A)
+![](https://img.shields.io/badge/Apache-informational?style=for-the-badge&logo=apache&logoColor=white&color=D22128)
+![](https://img.shields.io/badge/Nginx-informational?style=for-the-badge&logo=nginx&logoColor=white&color=009639)
+![](https://img.shields.io/badge/HAProxy-informational?style=for-the-badge&logo=haproxy&logoColor=white&color=1062A3)
+![](https://img.shields.io/badge/Datadog-informational?style=for-the-badge&logo=datadog&logoColor=white&color=632CA6)
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Celery-informational?style=for-the-badge&logo=celery&logoColor=white&color=37814A)
+![](https://img.shields.io/badge/Gunicorn-informational?style=for-the-badge&logo=gunicorn&logoColor=white&color=499848)
 
-&lt;&#x2F;details&gt;
+#### ☁️ Cloud & Deployment  
+![](https://img.shields.io/badge/Google_Cloud-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Render-informational?style=for-the-badge&logo=render&logoColor=white&color=46E3B7)
+![](https://img.shields.io/badge/Railway-informational?style=for-the-badge&logo=railway&logoColor=white&color=0B0D0E)
+
+#### 🔧 Tools & APIs  
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/ThunderClient-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Hoppscotch-informational?style=for-the-badge&logo=hoppscotch&logoColor=white&color=FF1B2D)
+![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)
+
+#### 📊 Data Science & AI  
+![](https://img.shields.io/badge/Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00)
+
+</details>
+
 
 
 ---
