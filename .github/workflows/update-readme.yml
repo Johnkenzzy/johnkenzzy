@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate README
+        run: node scripts/generate-readme.js
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add README.md assets/typing.svg || true
+          git commit -m "chore: update README [skip ci]" || echo "No changes"
+          git push
