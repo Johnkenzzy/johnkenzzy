@@ -53,27 +53,21 @@
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Shell_Script-informational?style&#x3D;for-the-badge&amp;logo&#x3D;gnu-bash&amp;logoColor&#x3D;white&amp;color&#x3D;4EAA25)
 
 #### ⚙️ Frameworks &amp; Libraries  
-
-**Backend**  
+  
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Django-informational?style&#x3D;for-the-badge&amp;logo&#x3D;django&amp;logoColor&#x3D;white&amp;color&#x3D;092e20)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;FastAPI-informational?style&#x3D;for-the-badge&amp;logo&#x3D;fastapi&amp;logoColor&#x3D;white&amp;color&#x3D;009688)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Flask-informational?style&#x3D;for-the-badge&amp;logo&#x3D;flask&amp;logoColor&#x3D;white&amp;color&#x3D;000000)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Express-informational?style&#x3D;for-the-badge&amp;logo&#x3D;express&amp;logoColor&#x3D;white&amp;color&#x3D;000000)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;NestJS-informational?style&#x3D;for-the-badge&amp;logo&#x3D;nestjs&amp;logoColor&#x3D;white&amp;color&#x3D;e0234e)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Node.js-informational?style&#x3D;for-the-badge&amp;logo&#x3D;node.js&amp;logoColor&#x3D;white&amp;color&#x3D;339933)
-
-**Frontend**  
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;React-informational?style&#x3D;for-the-badge&amp;logo&#x3D;react&amp;logoColor&#x3D;white&amp;color&#x3D;61DBFB)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;TailwindCSS-informational?style&#x3D;for-the-badge&amp;logo&#x3D;tailwind-css&amp;logoColor&#x3D;white&amp;color&#x3D;22d3ee)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Sass-informational?style&#x3D;for-the-badge&amp;logo&#x3D;sass&amp;logoColor&#x3D;white&amp;color&#x3D;cc6699)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-informational?style&#x3D;for-the-badge&amp;logo&#x3D;html5&amp;logoColor&#x3D;white&amp;color&#x3D;e34c26)
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-informational?style&#x3D;for-the-badge&amp;logo&#x3D;css3&amp;logoColor&#x3D;white&amp;color&#x3D;264de4)
 
----
-
 &lt;details&gt;
 &lt;summary&gt;📂 More Skills&lt;&#x2F;summary&gt;
-&lt;br&gt;
 
 #### 🗄️ Databases &amp; ORMs  
 ![](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;MongoDB-informational?style&#x3D;for-the-badge&amp;logo&#x3D;mongodb&amp;logoColor&#x3D;white&amp;color&#x3D;47A248)
@@ -178,7 +172,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The universe doesn&#39;t give you what you ask for with your thoughts - it gives you what you demand with your actions. — *Steve Maraboli*
+> The world doesn&#39;t owe you anything. It was here first. — *Mark Twain*
 
 ---
 
