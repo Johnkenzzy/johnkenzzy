@@ -13,7 +13,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Johnkennedy/Johnkennedy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Johnkenzzy/Johnkenzzy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <!-- rest of template... -->
@@ -25,7 +25,7 @@
   🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
 </p>
 
-<img src="assets/banner.gif" alt="banner" width="100%"/>
+<img src="https://tenor.com/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470" alt="banner" width="100%"/>
 
 ---
 
@@ -120,36 +120,34 @@
 
 </details>
 
-
-
 ---
 
 ## 📊 GitHub Stages
 <details>
 <summary>🔥 Contribution Streak</summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Johnkennedy&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=radical" alt="streak"/>
 </p>
 </details>
 
 <details>
 <summary>📈 Stats Overview</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnkennedy&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 </details>
 
 <details>
 <summary>🖥️ Languages</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkennedy&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=radical" alt="langs"/>
 </p>
 </details>
 
 <details>
 <summary>🌍 Activity Graph</summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkennedy&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkenzzy&theme=tokyo-night" alt="activity graph"/>
 </p>
 </details>
 
@@ -179,10 +177,10 @@
 ---
 
 ## ✨ Quote of the Day
-> The world doesn&#39;t owe you anything. It was here first. — *Mark Twain*
+> The healthiest response to life is joy. — *Deepak Chopra*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Johnkennedy&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Johnkenzzy&style=flat-square&color=blue"/>
 </p>
