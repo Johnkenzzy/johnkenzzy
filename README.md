@@ -6,8 +6,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Johnkennedy Umeh+👋;Full-Stack+Developer+🚀;Open+Source+Contributor+🌍;Always+learning+new+things+📚" alt="Typing SVG" />
 </p>
+<p align="center">
+  🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
+</p
 
-<img src="assets/banner.gif" alt="banner" width="100%"/>
+<img src="assets/banner.gif" alt="banner" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;"/>
+
 
 ---
 
@@ -16,19 +20,9 @@
   <img src="https://raw.githubusercontent.com/Johnkenzzy/Johnkenzzy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-<!-- rest of template... -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Johnkennedy Umeh+👋;Full-Stack+Developer+🚀;Open+Source+Contributor+🌍;Always+learning+new+things+📚" alt="Typing SVG" />
-</p>
-<p align="center">
-  🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
-</p>
-
-<img src="assets/banner.gif" alt="banner" width="100%"/>
-
 ---
 
+<!-- rest of template... -->
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnkennedy-umeh-979124270?)
@@ -174,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you try to micromanage yourself all you&#39;re going to do is make yourself miserable. — *Naval Ravikant*
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough. — *Albert Einstein*
 
 ---
 
