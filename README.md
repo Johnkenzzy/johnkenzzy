@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
+  🚀 Full-Stack Engineer | Problem Solver | Builder 🚀
 </h3>
 
 <p align="center">
@@ -146,29 +146,30 @@
 
 ## 🚀 Featured Projects
 
-- 🔥 [Awesome Project](https://github.com/yourusername/awesome-project)  
-  *A blazing-fast full-stack boilerplate with TypeScript, React, and Node.js.*
+- 🔍 [SmartAPIMonitor](https://github.com/Johnkenzzy/SmartAPIMonitor-client)  
+  *An intelligent API monitoring tool with alerts, analytics, and real-time dashboards.*  
 
-- 🎨 [UI Library](https://github.com/yourusername/ui-lib)  
-  *A stylish and customizable component library built with Tailwind + Radix.*
+- 🗺️ [Geolocus](https://github.com/Johnkenzzy/Geolocus)  
+  *A geospatial platform for location-based services.*  
 
-- 🤖 [AI Assistant](https://github.com/yourusername/ai-assistant)  
-  *Your personal open-source AI agent powered by GPT APIs.*
+- 🌱 [Agro Analysis Tool](https://github.com/Johnkenzzy/Agro-Analysis-Tool)  
+  *Crop data analysis for smarter agriculture.* 
 
 <details>
 <summary>More Projects</summary>
 <br>
 
-- 📊 [Data Viz Dashboard](https://github.com/yourusername/data-viz) – Interactive dashboards with D3.js & Chart.js  
-- 📱 [Mobile App](https://github.com/yourusername/mobile-app) – Cross-platform app built with React Native  
-- 🌐 [Portfolio Website](https://github.com/yourusername/portfolio) – Modern dev portfolio with animations  
+- 💳 [CreditMate](https://github.com/Johnkenzzy/CreditMate) – Credit scoring and management solution
+- 🗳️ [Evotes](https://github.com/Johnkenzzy/evotes) – Secure e-voting system service
+- 📦 [Inventrix](https://github.com/Johnkenzzy/Inventrix) – Inventory management system with analytics  
+- 🌫️ [HazieOlu](https://github.com/Johnkenzzy/HazieOlu) – Task management system    
 
 </details>
 
 ---
 
 ## ✨ Quote of the Day
-> Life is the art of drawing sufficient conclusions from insufficient premises. — *Samuel Butler*
+> Happiness is only real when shared. — *Christopher McCandless*
 
 ---
 
