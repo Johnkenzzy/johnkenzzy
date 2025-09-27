@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Johnkennedy Umeh+👋;Full-Stack+Developer+🚀;Open+Source+Contributor+🌍;Always+learning+new+things+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+I%27m+Johnkennedy Umeh+👋;Full-Stack+Developer+🚀;Open+Source+Contributor+🌍;Always+learning+new+things+📚" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The sweetest pleasure arises from difficulties overcome. — *Publilius Syrus*
+> There is only one thing that makes a dream impossible to achieve: the fear of failure. — *Paulo Coelho*
 
 ---
 
