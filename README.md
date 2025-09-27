@@ -25,18 +25,18 @@
   🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
 </p>
 
-<img src="https://tenor.com/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470" alt="banner" width="100%"/>
+<img src="assets/banner.gif" alt="banner" width="100%"/>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;LinkedIn-0077B5?style&#x3D;for-the-badge&amp;logo&#x3D;linkedin&amp;logoColor&#x3D;white)](https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;johnkennedy-umeh-979124270?)
-[![Twitter](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Twitter-1DA1F2?style&#x3D;for-the-badge&amp;logo&#x3D;twitter&amp;logoColor&#x3D;white)](https:&#x2F;&#x2F;twitter.com&#x2F;jkenzzy)
-[![YouTube](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;YouTube-FF0000?style&#x3D;for-the-badge&amp;logo&#x3D;youtube&amp;logoColor&#x3D;white)](https:&#x2F;&#x2F;youtube.com&#x2F;@JohnkennedyUmeh)
-[![CodePen](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CodePen-000000?style&#x3D;for-the-badge&amp;logo&#x3D;codepen&amp;logoColor&#x3D;white)](https:&#x2F;&#x2F;codepen.io&#x2F;johnkenzzy)
-[![Medium](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Medium-000000?style&#x3D;for-the-badge&amp;logo&#x3D;medium&amp;logoColor&#x3D;white)](https:&#x2F;&#x2F;medium.com&#x2F;@johnkenumeh)
-[![Email](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Email-D14836?style&#x3D;for-the-badge&amp;logo&#x3D;gmail&amp;logoColor&#x3D;white)](mailto:johnkenumeh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnkennedy-umeh-979124270?)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jkenzzy)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@JohnkennedyUmeh)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/johnkenzzy)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnkenumeh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnkenumeh@gmail.com)
 
 
 ---
@@ -53,16 +53,13 @@
 ![](https://img.shields.io/badge/Shell_Script-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
 
 #### ⚙️ Frameworks & Libraries  
-
-**Backend**  
+  
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
 ![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=white&color=e0234e)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
-
-**Frontend**  
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=22d3ee)
 ![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=cc6699)
@@ -155,29 +152,29 @@
 
 ## 🚀 Featured Projects
 
-- 🔥 [Awesome Project](https:&#x2F;&#x2F;github.com&#x2F;yourusername&#x2F;awesome-project)  
+- 🔥 [Awesome Project](https://github.com/yourusername/awesome-project)  
   *A blazing-fast full-stack boilerplate with TypeScript, React, and Node.js.*
 
-- 🎨 [UI Library](https:&#x2F;&#x2F;github.com&#x2F;yourusername&#x2F;ui-lib)  
+- 🎨 [UI Library](https://github.com/yourusername/ui-lib)  
   *A stylish and customizable component library built with Tailwind + Radix.*
 
-- 🤖 [AI Assistant](https:&#x2F;&#x2F;github.com&#x2F;yourusername&#x2F;ai-assistant)  
+- 🤖 [AI Assistant](https://github.com/yourusername/ai-assistant)  
   *Your personal open-source AI agent powered by GPT APIs.*
 
-&lt;details&gt;
-&lt;summary&gt;More Projects&lt;&#x2F;summary&gt;
-&lt;br&gt;
+<details>
+<summary>More Projects</summary>
+<br>
 
-- 📊 [Data Viz Dashboard](https:&#x2F;&#x2F;github.com&#x2F;yourusername&#x2F;data-viz) – Interactive dashboards with D3.js &amp; Chart.js  
-- 📱 [Mobile App](https:&#x2F;&#x2F;github.com&#x2F;yourusername&#x2F;mobile-app) – Cross-platform app built with React Native  
-- 🌐 [Portfolio Website](https:&#x2F;&#x2F;github.com&#x2F;yourusername&#x2F;portfolio) – Modern dev portfolio with animations  
+- 📊 [Data Viz Dashboard](https://github.com/yourusername/data-viz) – Interactive dashboards with D3.js & Chart.js  
+- 📱 [Mobile App](https://github.com/yourusername/mobile-app) – Cross-platform app built with React Native  
+- 🌐 [Portfolio Website](https://github.com/yourusername/portfolio) – Modern dev portfolio with animations  
 
-&lt;&#x2F;details&gt;
+</details>
 
 ---
 
 ## ✨ Quote of the Day
-> The healthiest response to life is joy. — *Deepak Chopra*
+> If you try to micromanage yourself all you&#39;re going to do is make yourself miserable. — *Naval Ravikant*
 
 ---
 
