@@ -27,6 +27,6 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
-          git add README.md
+          git add README.md assets/typing.svg || true
           git commit -m "chore: update README [skip ci]" || echo "No changes"
           git push
