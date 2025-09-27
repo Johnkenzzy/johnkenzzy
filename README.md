@@ -6,12 +6,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Johnkennedy Umeh+👋;Full-Stack+Developer+🚀;Open+Source+Contributor+🌍;Always+learning+new+things+📚" alt="Typing SVG" />
 </p>
+
 <p align="center">
   🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
-</p
+</p>
 
-<img src="assets/banner.gif" alt="banner" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;"/>
-
+<p align="center">
+  <img src="assets/banner.gif" alt="banner" width="100%" height="250">
+</p>
 
 ---
 
@@ -59,8 +61,6 @@
 ![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=cc6699)
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=e34c26)
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
-
----
 
 <details>
 <summary>📂 More Skills</summary>
@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough. — *Albert Einstein*
+> The sweetest pleasure arises from difficulties overcome. — *Publilius Syrus*
 
 ---
 
