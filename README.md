@@ -7,9 +7,9 @@
   <img src="assets/typing.svg" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<h3 align="center">
   🚀 Full-Stack Engineer | Open Source Enthusiast | Builder 🚀
-</p>
+</h3>
 
 <p align="center">
   <img src="assets/banner.gif" alt="banner" width="100%" height="250">
@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet. — *Thich Nhat Hanh*
+> Life is the art of drawing sufficient conclusions from insufficient premises. — *Samuel Butler*
 
 ---
 
