@@ -169,7 +169,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Progress is impossible without change, and those who cannot change their minds cannot change anything. — *George Bernard Shaw*
+> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. — *Gary Keller*
 
 ---
 
