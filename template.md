@@ -7,9 +7,9 @@
   <img src="assets/typing.svg" alt="Typing SVG" />
 </p>
 
-<h3 align="center">
-  🚀 {{tagline}}
-</h3>
+<p align="center" style="font-size: 20px; font-weight: bold;">
+   {{tagline}}
+</p>
 
 <p align="center">
   <img src="assets/banner.gif" alt="banner" width="100%" height="250">

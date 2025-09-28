@@ -7,9 +7,9 @@
   <img src="assets/typing.svg" alt="Typing SVG" />
 </p>
 
-<h3 align="center">
-  🚀 Full-Stack Engineer | Problem Solver | Builder 🚀
-</h3>
+<p align="center" style="font-size: 20px; font-weight: bold;">
+   Full-Stack Engineer | Problem Solver | Builder
+</p>
 
 <p align="center">
   <img src="assets/banner.gif" alt="banner" width="100%" height="250">
@@ -169,6 +169,7 @@
 ---
 
 ## ✨ Quote of the Day
+
 > Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. — *Gary Keller*
 
 ---
