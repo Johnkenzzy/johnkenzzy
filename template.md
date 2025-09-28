@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size: 20px; font-weight: bold;">
-  🚀 {{tagline}}
+   {{tagline}}
 </p>
 
 <p align="center">

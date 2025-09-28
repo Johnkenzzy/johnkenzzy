@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="font-size: 20px; font-weight: bold;">
-  🚀 Full-Stack Engineer | Problem Solver | Builder 🚀
+   Full-Stack Engineer | Problem Solver | Builder
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The single biggest problem in communication is the illusion that it has taken place. — *George Bernard Shaw*
+> I will not walk backward in life. — *J.R.R. Tolkien*
 
 ---
 
