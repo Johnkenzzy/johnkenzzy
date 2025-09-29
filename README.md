@@ -169,12 +169,10 @@
 ---
 
 ## ✨ Quote of the Day
-
-> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. — *Gary Keller*
+> Whatever satisfies the soul is truth. — *Walt Whitman*
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Johnkenzzy&style=flat-square&color=blue"/>
 </p>
-
