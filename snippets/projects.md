@@ -1,6 +1,6 @@
 
 - 🔍 [SmartAPIMonitor](https://github.com/Johnkenzzy/SmartAPIMonitor-client)  
-  *An intelligent API monitoring tool with alerts, analytics, and real-time dashboards.*  
+  *A smart API monitoring tool with alerts, analytics, and real-time dashboards.*  
 
 - 🗺️ [Geolocus](https://github.com/Johnkenzzy/Geolocus)  
   *A geospatial platform for location-based services.*  
