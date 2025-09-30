@@ -169,7 +169,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Whatever satisfies the soul is truth. — *Walt Whitman*
+> Be yourself; everyone else is already taken  — *Oscar Wilde*
 
 ---
 
