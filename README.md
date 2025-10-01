@@ -40,7 +40,7 @@
 ## 🛠️ Tech Arsenal
 ### 💼 Skills
 
-#### 🖥️ Languages  
+#### 🖥️ Languages
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
@@ -48,8 +48,7 @@
 ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white&color=276DC3)
 ![](https://img.shields.io/badge/Shell_Script-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
 
-#### ⚙️ Frameworks & Libraries  
-  
+#### ⚙️ Frameworks & Libraries
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
 ![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
@@ -147,7 +146,7 @@
 ## 🚀 Featured Projects
 
 - 🔍 [SmartAPIMonitor](https://github.com/Johnkenzzy/SmartAPIMonitor-client)  
-  *An intelligent API monitoring tool with alerts, analytics, and real-time dashboards.*  
+  *A smart API monitoring tool with alerts, analytics, and real-time dashboards.*  
 
 - 🗺️ [Geolocus](https://github.com/Johnkenzzy/Geolocus)  
   *A geospatial platform for location-based services.*  
@@ -169,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be yourself; everyone else is already taken  — *Oscar Wilde*
+> Adversity is the tempering of one&#39;s mettle. Without it, we cannot know any true meaning in our accomplishments. — *Ming-Dao Deng*
 
 ---
 
