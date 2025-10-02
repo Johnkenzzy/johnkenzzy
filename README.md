@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Adversity is the tempering of one&#39;s mettle. Without it, we cannot know any true meaning in our accomplishments. — *Ming-Dao Deng*
+> The key to immortality is first living a life worth remembering.  — *Bruce Lee*
 
 ---
 
