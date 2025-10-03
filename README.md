@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The key to immortality is first living a life worth remembering.  — *Bruce Lee*
+> Never take your position for granted and never let any favors you receive go to your head. — *Robert Greene*
 
 ---
 
