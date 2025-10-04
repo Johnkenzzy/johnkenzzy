@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Never take your position for granted and never let any favors you receive go to your head. — *Robert Greene*
+> If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return. — *Deepak Chopra*
 
 ---
 
