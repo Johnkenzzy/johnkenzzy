@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return. — *Deepak Chopra*
+> Either you choose to stay in the shallow end of the pool or you go out into the ocean. — *Christopher Reeve*
 
 ---
 
