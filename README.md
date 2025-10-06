@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Either you choose to stay in the shallow end of the pool or you go out into the ocean. — *Christopher Reeve*
+> Don&#39;t let what you cannot do interfere with what you can do. — *John Wooden*
 
 ---
 
