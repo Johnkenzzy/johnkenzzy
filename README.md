@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Don&#39;t let what you cannot do interfere with what you can do. — *John Wooden*
+> It&#39;s easier to lose than to win.   — *Wayne Gretzky*
 
 ---
 
