@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s easier to lose than to win.   — *Wayne Gretzky*
+> Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. — *Alexander Graham Bell*
 
 ---
 
