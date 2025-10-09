@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. — *Alexander Graham Bell*
+> Nothing can survive without food. Everything we consume acts either to heal us or to poison us. — *Thich Nhat Hanh*
 
 ---
 
