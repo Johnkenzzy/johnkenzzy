@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing can survive without food. Everything we consume acts either to heal us or to poison us. — *Thich Nhat Hanh*
+> No valid plans for the future can be made by those who have no capacity for living now. — *Alan Watts*
 
 ---
 
