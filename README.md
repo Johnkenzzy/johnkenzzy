@@ -117,16 +117,19 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
     height="180"
+    width="35"
     alt="GitHub Streak"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
     height="180"
+    width="35"
     alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
     height="180"
+    width="30"
     alt="Top Languages"
   />
 </p
@@ -169,6 +172,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Johnkenzzy&style=flat-square&color=blue"/>
 </p>
+
 
 
 
