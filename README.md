@@ -160,7 +160,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Even though you are on the right track - you will get run over if you just sit there. — *Will Rogers*
+> It&#39;s only after you&#39;ve stepped outside your comfort zone that you begin to change, grow, and transform. — *Roy T. Bennett*
 
 ---
 
