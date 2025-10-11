@@ -168,7 +168,7 @@
 ---
 
 ## ✨ Quote of the Day
-> No valid plans for the future can be made by those who have no capacity for living now. — *Alan Watts*
+> It&#39;s only after you&#39;ve stepped outside your comfort zone that you begin to change, grow, and transform. — *Roy T. Bennett*
 
 ---
 
