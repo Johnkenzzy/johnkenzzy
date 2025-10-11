@@ -114,28 +114,22 @@
 
 ## 📊 GitHub Stages
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=radical&hide_border=true&border_radius=10"
-      alt="GitHub Streak"
-      width="32%"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-      alt="GitHub Stats"
-      width="32%"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=radical&hide_border=true&border_radius=10"
-      alt="Top Languages"
-      width="32%"
-    />
-  </a>
-</p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="Top Languages"
+  />
+</p
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkenzzy&theme=tokyo-night" alt="activity graph"/>
@@ -175,6 +169,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Johnkenzzy&style=flat-square&color=blue"/>
 </p>
+
 
 
 
