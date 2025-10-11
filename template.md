@@ -36,33 +36,25 @@
 ---
 
 ## 📊 GitHub Stages
-<details>
 <summary>🔥 Contribution Streak</summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user={{username}}&theme=radical" alt="streak"/>
 </p>
-</details>
 
-<details>
 <summary>📈 Stats Overview</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
-</details>
 
-<details>
 <summary>🖥️ Languages</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=radical" alt="langs"/>
 </p>
-</details>
 
-<details>
 <summary>🌍 Activity Graph</summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username={{username}}&theme=tokyo-night" alt="activity graph"/>
 </p>
-</details>
 
 ---
 

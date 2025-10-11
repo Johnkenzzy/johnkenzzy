@@ -19,7 +19,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Johnkenzzy/Johnkenzzy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Johnkenzzy/Johnkenzzy/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🛠️ Tech Arsenal
 ### 💼 Skills
 
-#### 🖥️ Languages  
+#### 🖥️ Languages
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
@@ -48,8 +48,7 @@
 ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white&color=276DC3)
 ![](https://img.shields.io/badge/Shell_Script-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
 
-#### ⚙️ Frameworks & Libraries  
-  
+#### ⚙️ Frameworks & Libraries
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092e20)
 ![](https://img.shields.io/badge/FastAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
 ![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000)
@@ -114,40 +113,32 @@
 ---
 
 ## 📊 GitHub Stages
-<details>
 <summary>🔥 Contribution Streak</summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=radical" alt="streak"/>
 </p>
-</details>
 
-<details>
 <summary>📈 Stats Overview</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
-</details>
 
-<details>
 <summary>🖥️ Languages</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=radical" alt="langs"/>
 </p>
-</details>
 
-<details>
 <summary>🌍 Activity Graph</summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkenzzy&theme=tokyo-night" alt="activity graph"/>
 </p>
-</details>
 
 ---
 
 ## 🚀 Featured Projects
 
 - 🔍 [SmartAPIMonitor](https://github.com/Johnkenzzy/SmartAPIMonitor-client)  
-  *An intelligent API monitoring tool with alerts, analytics, and real-time dashboards.*  
+  *A smart API monitoring tool with alerts, analytics, and real-time dashboards.*  
 
 - 🗺️ [Geolocus](https://github.com/Johnkenzzy/Geolocus)  
   *A geospatial platform for location-based services.*  
@@ -169,8 +160,7 @@
 ---
 
 ## ✨ Quote of the Day
-
-> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. — *Gary Keller*
+> Even though you are on the right track - you will get run over if you just sit there. — *Will Rogers*
 
 ---
 
