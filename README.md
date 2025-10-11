@@ -113,22 +113,18 @@
 ---
 
 ## 📊 GitHub Stages
-<summary>🔥 Contribution Streak</summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=radical" alt="streak"/>
 </p>
 
-<summary>📈 Stats Overview</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
-<summary>🖥️ Languages</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=radical" alt="langs"/>
 </p>
 
-<summary>🌍 Activity Graph</summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkenzzy&theme=tokyo-night" alt="activity graph"/>
 </p>
@@ -167,3 +163,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Johnkenzzy&style=flat-square&color=blue"/>
 </p>
+
