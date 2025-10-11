@@ -38,7 +38,6 @@
 ---
 
 ## 🛠️ Tech Arsenal
-### 💼 Skills
 
 #### 🖥️ Languages
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
@@ -162,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s only after you&#39;ve stepped outside your comfort zone that you begin to change, grow, and transform. — *Roy T. Bennett*
+> Age is a very high price to pay for maturity. — *William James*
 
 ---
 
