@@ -1,4 +1,3 @@
-### 💼 Skills
 
 #### 🖥️ Languages
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)

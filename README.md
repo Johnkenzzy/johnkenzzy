@@ -38,7 +38,6 @@
 ---
 
 ## 🛠️ Tech Arsenal
-### 💼 Skills
 
 #### 🖥️ Languages
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
@@ -113,22 +112,24 @@
 ---
 
 ## 📊 GitHub Stages
-<summary>🔥 Contribution Streak</summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=radical" alt="streak"/>
-</p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Johnkenzzy&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="Top Languages"
+  />
+</p
 
-<summary>📈 Stats Overview</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnkenzzy&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<summary>🖥️ Languages</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnkenzzy&layout=compact&theme=radical" alt="langs"/>
-</p>
-
-<summary>🌍 Activity Graph</summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johnkenzzy&theme=tokyo-night" alt="activity graph"/>
 </p>
@@ -160,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Even though you are on the right track - you will get run over if you just sit there. — *Will Rogers*
+> Age is a very high price to pay for maturity. — *William James*
 
 ---
 

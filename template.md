@@ -36,22 +36,24 @@
 ---
 
 ## 📊 GitHub Stages
-<summary>🔥 Contribution Streak</summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user={{username}}&theme=radical" alt="streak"/>
-</p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user={{username}}&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320"
+    height="180"
+    alt="Top Languages"
+  />
+</p
 
-<summary>📈 Stats Overview</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<summary>🖥️ Languages</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=radical" alt="langs"/>
-</p>
-
-<summary>🌍 Activity Graph</summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username={{username}}&theme=tokyo-night" alt="activity graph"/>
 </p>
