@@ -161,19 +161,10 @@
 ---
 
 ## ✨ Quote of the Day
-> Age is a very high price to pay for maturity. — *William James*
+> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for. — *Gurbaksh Chahal*
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Johnkenzzy&style=flat-square&color=blue"/>
 </p>
-
-
-
-
-
-
-
-
-
