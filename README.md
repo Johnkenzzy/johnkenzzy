@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for. — *Gurbaksh Chahal*
+> A golden cage is still just a cage. — *Anita Krizzan*
 
 ---
 
