@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A golden cage is still just a cage. — *Anita Krizzan*
+> Everyone is a moon, and has a dark side which he never shows to anybody. — *Mark Twain*
 
 ---
 
