@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Everyone is a moon, and has a dark side which he never shows to anybody. — *Mark Twain*
+> Some people find fault like there is a reward for it.   — *Zig Ziglar*
 
 ---
 
