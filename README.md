@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Some people find fault like there is a reward for it.   — *Zig Ziglar*
+> Sometimes out of your biggest misery, comes your greatest gain. — *Steve Harvey*
 
 ---
 
