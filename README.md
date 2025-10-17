@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Sometimes out of your biggest misery, comes your greatest gain. — *Steve Harvey*
+> Never spend your money before you have earned it. — *Thomas Jefferson*
 
 ---
 
