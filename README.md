@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Never spend your money before you have earned it. — *Thomas Jefferson*
+> To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. — *Deepak Chopra*
 
 ---
 
