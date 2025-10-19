@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. — *Deepak Chopra*
+> Nothing external to you has any power over you. — *Ralph Waldo Emerson*
 
 ---
 
