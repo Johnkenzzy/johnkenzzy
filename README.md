@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing external to you has any power over you. — *Ralph Waldo Emerson*
+> Real growth comes through intense, difficult, and challenging situations. — *Kamal Ravikant*
 
 ---
 
