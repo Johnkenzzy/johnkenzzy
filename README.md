@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Real growth comes through intense, difficult, and challenging situations. — *Kamal Ravikant*
+> Go for it now. The future is promised to no one.  — *Wayne Dyer*
 
 ---
 
