@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Go for it now. The future is promised to no one.  — *Wayne Dyer*
+> I know not all that may be coming, but be it what it will, I&#39;ll go to it laughing. — *Herman Melville*
 
 ---
 
