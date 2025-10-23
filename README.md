@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I know not all that may be coming, but be it what it will, I&#39;ll go to it laughing. — *Herman Melville*
+> Allow motion to equal emotion. — *Elbert Hubbard*
 
 ---
 
