@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Allow motion to equal emotion. — *Elbert Hubbard*
+> You don&#39;t have to be great to start, but you have to start to be great.   — *Zig Ziglar*
 
 ---
 
