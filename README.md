@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. — *T.S. Eliot*
+> Nourish the mind like you would your body. The mind cannot survive on junk food. — *Brian Tracy*
 
 ---
 
