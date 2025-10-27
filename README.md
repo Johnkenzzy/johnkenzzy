@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nourish the mind like you would your body. The mind cannot survive on junk food. — *Brian Tracy*
+> The first step is to establish that something is possible; then probability will occur. — *Elon Musk*
 
 ---
 
