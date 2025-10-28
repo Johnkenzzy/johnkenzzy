@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The first step is to establish that something is possible; then probability will occur. — *Elon Musk*
+> You are now, and you do become, what you think about. — *Earl Nightingale*
 
 ---
 
