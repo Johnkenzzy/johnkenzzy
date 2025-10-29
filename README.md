@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You are now, and you do become, what you think about. — *Earl Nightingale*
+> Patience expands your options. If you insist on immediate gratification, your choices are severely limited. — *Ralph Marston*
 
 ---
 
