@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Patience expands your options. If you insist on immediate gratification, your choices are severely limited. — *Ralph Marston*
+> You are the only problem you will ever have and you are the only solution. — *Bob Proctor*
 
 ---
 
