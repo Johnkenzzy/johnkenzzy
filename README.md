@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You are the only problem you will ever have and you are the only solution. — *Bob Proctor*
+> It is easy to discover what another has discovered before. — *Christopher Columbus*
 
 ---
 
