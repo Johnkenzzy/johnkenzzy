@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is easy to discover what another has discovered before. — *Christopher Columbus*
+> It&#39;s possible in ways both large or small to make a difference in someone&#39;s life. — *Yanni*
 
 ---
 
