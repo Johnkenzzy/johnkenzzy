@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s possible in ways both large or small to make a difference in someone&#39;s life. — *Yanni*
+> We love the things we love for what they are. — *Robert Frost*
 
 ---
 
