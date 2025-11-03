@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We love the things we love for what they are. — *Robert Frost*
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. — *John D. Rockefeller*
 
 ---
 
