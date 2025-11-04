@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. — *John D. Rockefeller*
+> We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. — *Josh Waitzkin*
 
 ---
 
