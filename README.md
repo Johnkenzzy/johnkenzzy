@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. — *Josh Waitzkin*
+> Think and wonder, wonder and think. — *Dr. Seuss*
 
 ---
 
