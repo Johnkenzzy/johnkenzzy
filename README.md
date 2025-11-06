@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Think and wonder, wonder and think. — *Dr. Seuss*
+> When you stop questioning, you stop learning. — *Lolly Daskal*
 
 ---
 
