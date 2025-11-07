@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> When you stop questioning, you stop learning. — *Lolly Daskal*
+> Success is getting what you want... Happiness is wanting what you get. — *Dale Carnegie*
 
 ---
 
