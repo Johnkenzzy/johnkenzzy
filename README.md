@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Success is getting what you want... Happiness is wanting what you get. — *Dale Carnegie*
+> Lack of emotion causes lack of progress and lack of motivation. — *Tony Robbins*
 
 ---
 
