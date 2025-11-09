@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Lack of emotion causes lack of progress and lack of motivation. — *Tony Robbins*
+> Even a hare will bite when it is cornered.  — *Chinese Proverb*
 
 ---
 
