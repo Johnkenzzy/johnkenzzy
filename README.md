@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Even a hare will bite when it is cornered.  — *Chinese Proverb*
+> Nothing is impossible. The word itself says &#39;I&#39;m possible!&#39; — *Audrey Hepburn*
 
 ---
 
