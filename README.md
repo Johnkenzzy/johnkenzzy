@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing is impossible. The word itself says &#39;I&#39;m possible!&#39; — *Audrey Hepburn*
+> It is startling to realize how much unbelief is necessary to make belief possible. — *Eric Hoffer*
 
 ---
 
