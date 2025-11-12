@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is startling to realize how much unbelief is necessary to make belief possible. — *Eric Hoffer*
+> What you seek is seeking you. — *Rumi*
 
 ---
 
