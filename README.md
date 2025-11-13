@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What you seek is seeking you. — *Rumi*
+> All happiness depends on courage and work. — *Honore de Balzac*
 
 ---
 
