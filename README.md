@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment. — *Dan Millman*
+> It&#39;s not what we do once in a while that shapes our lives, but what we do consistently. — *Tony Robbins*
 
 ---
 
