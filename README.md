@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s not what we do once in a while that shapes our lives, but what we do consistently. — *Tony Robbins*
+> I&#39;d rather welcome change than cling to the past. — *Robert Kiyosaki*
 
 ---
 
