@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I&#39;d rather welcome change than cling to the past. — *Robert Kiyosaki*
+> Those who attain the middle Dominate the whole. — *Ming-Dao Deng*
 
 ---
 
