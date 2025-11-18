@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Those who attain the middle Dominate the whole. — *Ming-Dao Deng*
+> Rest when you&#39;re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. — *Ralph Marston*
 
 ---
 
