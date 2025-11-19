@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Rest when you&#39;re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. — *Ralph Marston*
+> Who you are is defined by what you&#39;re willing to struggle for. — *Mark Manson*
 
 ---
 
