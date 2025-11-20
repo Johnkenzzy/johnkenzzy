@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Who you are is defined by what you&#39;re willing to struggle for. — *Mark Manson*
+> Quiet people have the loudest minds. — *Stephen Hawking*
 
 ---
 
