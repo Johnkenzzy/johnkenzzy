@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Quiet people have the loudest minds. — *Stephen Hawking*
+> The enemy is a very good teacher. — *Dalai Lama*
 
 ---
 
