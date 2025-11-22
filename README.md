@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The enemy is a very good teacher. — *Dalai Lama*
+> Loving thoughts and actions are clearly beneficial for our physical and mental health. — *Dalai Lama*
 
 ---
 
