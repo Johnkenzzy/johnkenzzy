@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Loving thoughts and actions are clearly beneficial for our physical and mental health. — *Dalai Lama*
+> We will outstretch the hand if you unclench your fist. — *Barack Obama*
 
 ---
 
