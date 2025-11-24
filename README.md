@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We will outstretch the hand if you unclench your fist. — *Barack Obama*
+> If you truly love Nature, you will find beauty everywhere.  — *Vincent van Gogh*
 
 ---
 
