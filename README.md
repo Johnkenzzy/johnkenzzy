@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you truly love Nature, you will find beauty everywhere.  — *Vincent van Gogh*
+> The more reasons you have for achieving your goal, the more determined you will become. — *Brian Tracy*
 
 ---
 
