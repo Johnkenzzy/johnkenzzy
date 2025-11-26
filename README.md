@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The more reasons you have for achieving your goal, the more determined you will become. — *Brian Tracy*
+> Originality is the fine art of remembering what you hear but forgetting where you heard it.  — *Laurence J. Peter*
 
 ---
 
