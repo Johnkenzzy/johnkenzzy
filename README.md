@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Originality is the fine art of remembering what you hear but forgetting where you heard it.  — *Laurence J. Peter*
+> There are no accidents... there is only some purpose that we haven&#39;t yet understood. — *Deepak Chopra*
 
 ---
 
