@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There are no accidents... there is only some purpose that we haven&#39;t yet understood. — *Deepak Chopra*
+> There is only one thing that makes a dream impossible to achieve: the fear of failure. — *Paulo Coelho*
 
 ---
 
