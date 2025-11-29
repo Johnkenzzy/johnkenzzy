@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There is only one thing that makes a dream impossible to achieve: the fear of failure. — *Paulo Coelho*
+> The measure of who we are is what we do with what we have. — *Vince Lombardi*
 
 ---
 
