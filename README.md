@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The measure of who we are is what we do with what we have. — *Vince Lombardi*
+> Be strong. Be confident. Be the star of your own life. — *Estee Lauder*
 
 ---
 
