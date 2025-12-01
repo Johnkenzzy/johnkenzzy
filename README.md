@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be strong. Be confident. Be the star of your own life. — *Estee Lauder*
+> Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. — *Charles Dickens*
 
 ---
 
