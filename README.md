@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. — *Charles Dickens*
+> Courage is found in unlikely places. — *J.R.R. Tolkien*
 
 ---
 
