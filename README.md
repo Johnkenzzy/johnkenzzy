@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Courage is found in unlikely places. — *J.R.R. Tolkien*
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough. — *Albert Einstein*
 
 ---
 
