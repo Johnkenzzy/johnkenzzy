@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you can&#39;t explain it simply, you don&#39;t understand it well enough. — *Albert Einstein*
+> Your past does not equal your future. — *Tony Robbins*
 
 ---
 
