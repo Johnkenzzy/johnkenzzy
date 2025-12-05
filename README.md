@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Your past does not equal your future. — *Tony Robbins*
+> Never waste a minute of your precious life thinking about people you don&#39;t like. — *Celestine Chua*
 
 ---
 
