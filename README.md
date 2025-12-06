@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Never waste a minute of your precious life thinking about people you don&#39;t like. — *Celestine Chua*
+> Life is a traveling to the edge of knowledge, then a leap taken. — *D. H. Lawrence*
 
 ---
 
