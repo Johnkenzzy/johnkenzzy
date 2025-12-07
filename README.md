@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life is a traveling to the edge of knowledge, then a leap taken. — *D. H. Lawrence*
+> It&#39;s better to dance than to march through life. — *Yoko Ono*
 
 ---
 
