@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s better to dance than to march through life. — *Yoko Ono*
+> Constantly think about how you could be doing things better. — *Elon Musk*
 
 ---
 
