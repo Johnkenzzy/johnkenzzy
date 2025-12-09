@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Constantly think about how you could be doing things better. — *Elon Musk*
+> Focus on how far you have come in life rather than looking at the accomplishments of others. — *Lolly Daskal*
 
 ---
 
