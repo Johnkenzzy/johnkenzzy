@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Focus on how far you have come in life rather than looking at the accomplishments of others. — *Lolly Daskal*
+> Over time, loneliness gets inside you and doesn&#39;t go away. — *Carlos Ruiz Zafon*
 
 ---
 
