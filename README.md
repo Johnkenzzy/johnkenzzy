@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Over time, loneliness gets inside you and doesn&#39;t go away. — *Carlos Ruiz Zafon*
+> What do we live for, if it is not to make life less difficult for each other? — *George Eliot*
 
 ---
 
