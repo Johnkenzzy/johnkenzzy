@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What do we live for, if it is not to make life less difficult for each other? — *George Eliot*
+> Not all those who wander are lost. — *J.R.R. Tolkien*
 
 ---
 
