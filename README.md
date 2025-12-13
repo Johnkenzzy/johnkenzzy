@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Not all those who wander are lost. — *J.R.R. Tolkien*
+> It is not titles that honour men, but men that honour titles. — *Niccolo Machiavelli*
 
 ---
 
