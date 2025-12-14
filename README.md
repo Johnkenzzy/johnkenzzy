@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is not titles that honour men, but men that honour titles. — *Niccolo Machiavelli*
+> My favorite things in life don&#39;t cost any money. It&#39;s really clear that the most precious resource we all have is time. — *Steve Jobs*
 
 ---
 
