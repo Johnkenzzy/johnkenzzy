@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> My favorite things in life don&#39;t cost any money. It&#39;s really clear that the most precious resource we all have is time. — *Steve Jobs*
+> Truth is such a rare thing, it is delighted to tell it. — *Emily Dickinson*
 
 ---
 
