@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Truth is such a rare thing, it is delighted to tell it. — *Emily Dickinson*
+> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others. — *Audrey Hepburn*
 
 ---
 
