@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others. — *Audrey Hepburn*
+> Character is the result of two things: mental attitude and the way we spend our time. — *Elbert Hubbard*
 
 ---
 
