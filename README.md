@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Character is the result of two things: mental attitude and the way we spend our time. — *Elbert Hubbard*
+> The key to immortality is first living a life worth remembering.  — *Bruce Lee*
 
 ---
 
