@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The key to immortality is first living a life worth remembering.  — *Bruce Lee*
+> If you&#39;re brave enough to say goodbye, life will reward you with a new hello. — *Paulo Coelho*
 
 ---
 
