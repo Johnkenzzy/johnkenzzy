@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you&#39;re brave enough to say goodbye, life will reward you with a new hello. — *Paulo Coelho*
+> Happiness is not something ready made. It comes from your own actions. — *Dalai Lama*
 
 ---
 
