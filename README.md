@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Happiness is not something ready made. It comes from your own actions. — *Dalai Lama*
+> Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don&#39;t have to have it all figured out to move forward. — *Roy T. Bennett*
 
 ---
 
