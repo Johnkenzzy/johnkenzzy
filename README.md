@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don&#39;t have to have it all figured out to move forward. — *Roy T. Bennett*
+> People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. — *David Brinkley*
 
 ---
 
