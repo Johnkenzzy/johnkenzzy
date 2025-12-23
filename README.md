@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. — *David Brinkley*
+> Meditate. It won&#39;t be fun but it will surface what you need to deal with. — *Naval Ravikant*
 
 ---
 
