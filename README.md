@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Meditate. It won&#39;t be fun but it will surface what you need to deal with. — *Naval Ravikant*
+> Success does not consist in never making mistakes but in never making the same one a second time. — *George Bernard Shaw*
 
 ---
 
