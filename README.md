@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Success does not consist in never making mistakes but in never making the same one a second time. — *George Bernard Shaw*
+> Knowing is not enough, we must apply. Willing is not enough, we must do. — *Johann Wolfgang von Goethe*
 
 ---
 
