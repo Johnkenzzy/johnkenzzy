@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Knowing is not enough, we must apply. Willing is not enough, we must do. — *Johann Wolfgang von Goethe*
+> Life is like riding a bicycle. To keep your balance you must keep moving. — *Albert Einstein*
 
 ---
 
