@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life is like riding a bicycle. To keep your balance you must keep moving. — *Albert Einstein*
+> Art is to console those who are broken by life. — *Vincent van Gogh*
 
 ---
 
