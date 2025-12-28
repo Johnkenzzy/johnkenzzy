@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Art is to console those who are broken by life. — *Vincent van Gogh*
+> Perpetual optimism is a force multiplier. — *Colin Powell*
 
 ---
 
