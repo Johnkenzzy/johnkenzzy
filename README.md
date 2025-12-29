@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Perpetual optimism is a force multiplier. — *Colin Powell*
+> The search for happiness is one of the chief sources of unhappiness. — *Eric Hoffer*
 
 ---
 
