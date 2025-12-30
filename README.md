@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The search for happiness is one of the chief sources of unhappiness. — *Eric Hoffer*
+> You are what you believe yourself to be. — *Paulo Coelho*
 
 ---
 
