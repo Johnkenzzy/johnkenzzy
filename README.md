@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You are what you believe yourself to be. — *Paulo Coelho*
+> Money poisons you when you&#39;ve got it, and starves you when you haven&#39;t. — *D. H. Lawrence*
 
 ---
 
