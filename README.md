@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Money poisons you when you&#39;ve got it, and starves you when you haven&#39;t. — *D. H. Lawrence*
+> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — *Richard Bach*
 
 ---
 
