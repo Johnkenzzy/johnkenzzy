@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. — *Richard Bach*
+> Because of your smile, you make life more beautiful. — *Thich Nhat Hanh*
 
 ---
 
