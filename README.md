@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Because of your smile, you make life more beautiful. — *Thich Nhat Hanh*
+> Life becomes easier and more beautiful when we can see the good in other people. — *Roy T. Bennett*
 
 ---
 
