@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life becomes easier and more beautiful when we can see the good in other people. — *Roy T. Bennett*
+> Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.   — *Wayne Dyer*
 
 ---
 
