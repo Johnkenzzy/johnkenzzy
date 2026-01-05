@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.   — *Wayne Dyer*
+> The highest form of ignorance is when you reject something you don&#39;t know anything about.  — *Wayne Dyer*
 
 ---
 
