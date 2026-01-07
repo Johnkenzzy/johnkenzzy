@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We cannot change anything unless we accept it. — *Carl Jung*
+> Deeds will not be less valiant because they are upraised. — *J.R.R. Tolkien*
 
 ---
 
