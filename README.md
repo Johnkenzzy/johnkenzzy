@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Ideas do not reach perfection in a day, no matter how much study is put upon them. — *Alexander Graham Bell*
+> If the only prayer you ever say in your entire life is thank you, it will be enough. — *Meister Eckhart*
 
 ---
 
