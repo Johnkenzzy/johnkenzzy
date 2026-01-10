@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If the only prayer you ever say in your entire life is thank you, it will be enough. — *Meister Eckhart*
+> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. — *Helen Keller*
 
 ---
 
