@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. — *Helen Keller*
+> It&#39;s OK to have your eggs in one basket as long as you control what happens to that basket. — *Elon Musk*
 
 ---
 
