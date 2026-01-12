@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s OK to have your eggs in one basket as long as you control what happens to that basket. — *Elon Musk*
+> Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in. — *Robert Greene*
 
 ---
 
