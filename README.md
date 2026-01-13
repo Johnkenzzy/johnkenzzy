@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in. — *Robert Greene*
+> If you do not tell the truth about yourself you cannot tell it about other people. — *Virginia Woolf*
 
 ---
 
