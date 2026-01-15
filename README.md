@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Fool me once, shame on you; fool me twice, shame on me.  — *Chinese Proverb*
+> Sometimes you have to lose all you have to find out who you truly are. — *Roy T. Bennett*
 
 ---
 
