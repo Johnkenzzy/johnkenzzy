@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Sometimes you have to lose all you have to find out who you truly are. — *Roy T. Bennett*
+> Remember that the best relationship is one in which your love for each other exceeds your need for each other. — *Dalai Lama*
 
 ---
 
