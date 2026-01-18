@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What are we doing here, that is the question. — *Samuel Beckett*
+> In the End, we will remember not the words of our enemies, but the silence of our friends. — *Martin Luther King, Jr.*
 
 ---
 
