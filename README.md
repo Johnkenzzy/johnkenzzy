@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> In the End, we will remember not the words of our enemies, but the silence of our friends. — *Martin Luther King, Jr.*
+> I defeat my enemies when I make them my friends. — *Dalai Lama*
 
 ---
 
