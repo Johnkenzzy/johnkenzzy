@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I defeat my enemies when I make them my friends. — *Dalai Lama*
+> Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? — *Sathya Sai Baba*
 
 ---
 
