@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? — *Sathya Sai Baba*
+> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — *Carl Bard*
 
 ---
 
