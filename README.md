@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — *Carl Bard*
+> If you see a get rich quick scheme, that&#39;s someone else trying to get rich off of you. — *Naval Ravikant*
 
 ---
 
