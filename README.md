@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The road to success is always under construction. — *Steve Harvey*
+> A random act of kindness, no matter how small, can make a tremendous impact on someone else&#39;s life. — *Roy T. Bennett*
 
 ---
 
