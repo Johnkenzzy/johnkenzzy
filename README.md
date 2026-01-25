@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A random act of kindness, no matter how small, can make a tremendous impact on someone else&#39;s life. — *Roy T. Bennett*
+> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.  — *Franz Kafka*
 
 ---
 
