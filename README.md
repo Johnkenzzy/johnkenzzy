@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.  — *Franz Kafka*
+> Even if you stumble and fall down, it doesn&#39;t mean you&#39;ve chosen the wrong path. — *Zen Proverb*
 
 ---
 
