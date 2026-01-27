@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Even if you stumble and fall down, it doesn&#39;t mean you&#39;ve chosen the wrong path. — *Zen Proverb*
+> The world doesn&#39;t owe you anything. It was here first. — *Mark Twain*
 
 ---
 
