@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The world doesn&#39;t owe you anything. It was here first. — *Mark Twain*
+> Today is the oldest you&#39;ve ever been, and the youngest you&#39;ll ever be again. — *Eleanor Roosevelt*
 
 ---
 
