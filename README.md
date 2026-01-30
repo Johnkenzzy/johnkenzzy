@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Relax. Nothing is under control. — *Adi Da Samraj*
+> Integrity is the ability to stand by an idea. — *Ayn Rand*
 
 ---
 
