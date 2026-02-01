@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What the mind can conceive and believe, and the heart desire, you can achieve. — *Norman Vincent Peale*
+> One of the first signs of the beginning of understanding is the wish to die.  — *Franz Kafka*
 
 ---
 
