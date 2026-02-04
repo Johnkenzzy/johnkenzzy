@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Failure is just information and an opportunity to change your course. — *Oprah Winfrey*
+> To improve is to change, so to be perfect is to change often. — *Winston Churchill*
 
 ---
 
