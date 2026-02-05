@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> To improve is to change, so to be perfect is to change often. — *Winston Churchill*
+> The most important battle is one to conquer yourself. — *Yanni*
 
 ---
 
