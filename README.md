@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The most important battle is one to conquer yourself. — *Yanni*
+> Things do not have meaning. We assign meaning to everything. — *Tony Robbins*
 
 ---
 
