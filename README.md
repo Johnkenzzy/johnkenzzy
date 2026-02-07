@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Things do not have meaning. We assign meaning to everything. — *Tony Robbins*
+> Whatever happens always happens on time. — *Zen Proverb*
 
 ---
 
