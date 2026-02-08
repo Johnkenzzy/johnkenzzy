@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Whatever happens always happens on time. — *Zen Proverb*
+> If you see a get rich quick scheme, that&#39;s someone else trying to get rich off of you. — *Naval Ravikant*
 
 ---
 
