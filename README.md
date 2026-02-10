@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The scariest moment is always just before you start. After that, things can only get better. — *Stephen King*
+> Creativity is the greatest rebellion in existence. — *Osho*
 
 ---
 
