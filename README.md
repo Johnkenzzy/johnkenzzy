@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. — *Brian Tracy*
+> A dream doesn&#39;t become reality through magic it takes sweat, determination and hard work. — *Colin Powell*
 
 ---
 
