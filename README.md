@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A dream doesn&#39;t become reality through magic it takes sweat, determination and hard work. — *Colin Powell*
+> So we beat on, boats against the current, borne back ceaselessly into the past. — *F. Scott Fitzgerald*
 
 ---
 
