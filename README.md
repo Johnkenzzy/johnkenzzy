@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> So we beat on, boats against the current, borne back ceaselessly into the past. — *F. Scott Fitzgerald*
+> Your setback is just a setup for a comeback. — *Steve Harvey*
 
 ---
 
