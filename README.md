@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You need a plan to build a house. To build a life, it is even more important to have a plan or goal. — *Zig Ziglar*
+> Truth will always be truth, regardless of lack of understanding, disbelief or ignorance.  — *W. Clement Stone*
 
 ---
 
