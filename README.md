@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Truth will always be truth, regardless of lack of understanding, disbelief or ignorance.  — *W. Clement Stone*
+> The dead receive more flowers than the living because regret is stronger than gratitude. — *Anne Frank*
 
 ---
 
