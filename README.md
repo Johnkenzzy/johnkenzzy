@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The dead receive more flowers than the living because regret is stronger than gratitude. — *Anne Frank*
+> You can put lipstick on a pig. It&#39;s still a pig. — *Barack Obama*
 
 ---
 
