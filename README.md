@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You can put lipstick on a pig. It&#39;s still a pig. — *Barack Obama*
+> A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions. — *Ming-Dao Deng*
 
 ---
 
