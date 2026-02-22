@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions. — *Ming-Dao Deng*
+> How much pain they have cost us, the evils which have never happened. — *Thomas Jefferson*
 
 ---
 
