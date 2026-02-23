@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> How much pain they have cost us, the evils which have never happened. — *Thomas Jefferson*
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure. — *Colin Powell*
 
 ---
 
