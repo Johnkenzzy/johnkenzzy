@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There are no secrets to success. It is the result of preparation, hard work, and learning from failure. — *Colin Powell*
+> Thinking is difficult, that&#39;s why most people judge. — *Carl Jung*
 
 ---
 
