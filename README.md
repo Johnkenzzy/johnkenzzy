@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Thinking is difficult, that&#39;s why most people judge. — *Carl Jung*
+> If you&#39;re afraid to die, you&#39;re afraid to live. You can&#39;t have one without the other. — *Rita Mae Brown*
 
 ---
 
