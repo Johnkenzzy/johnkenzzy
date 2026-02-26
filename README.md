@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you&#39;re afraid to die, you&#39;re afraid to live. You can&#39;t have one without the other. — *Rita Mae Brown*
+> Today is the oldest you&#39;ve ever been, and the youngest you&#39;ll ever be again. — *Eleanor Roosevelt*
 
 ---
 
