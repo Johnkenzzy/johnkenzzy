@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Today is the oldest you&#39;ve ever been, and the youngest you&#39;ll ever be again. — *Eleanor Roosevelt*
+> Be yourself; everyone else is already taken  — *Oscar Wilde*
 
 ---
 
