@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be yourself; everyone else is already taken  — *Oscar Wilde*
+> I have lived with several Zen masters -- all of them cats. — *Eckhart Tolle*
 
 ---
 
