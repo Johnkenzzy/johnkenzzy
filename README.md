@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I have lived with several Zen masters -- all of them cats. — *Eckhart Tolle*
+> Forget yesterday - it has already forgotten you. Don&#39;t sweat tomorrow - you haven&#39;t even met. Instead, open your eyes and your heart to a truly precious gift - today. — *Steve Maraboli*
 
 ---
 
