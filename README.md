@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There is no path to Happiness. Happiness is the path. — *Dan Millman*
+> A change is brought about because ordinary people do extraordinary things. — *Barack Obama*
 
 ---
 
