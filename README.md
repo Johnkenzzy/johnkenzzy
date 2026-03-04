@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A change is brought about because ordinary people do extraordinary things. — *Barack Obama*
+> In the beginner&#39;s mind there are many possibilities, but in the expert&#39;s mind there are few. — *Shunryu Suzuki*
 
 ---
 
