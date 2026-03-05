@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> In the beginner&#39;s mind there are many possibilities, but in the expert&#39;s mind there are few. — *Shunryu Suzuki*
+> Change happens when the pain of holding on becomes greater than the fear of letting go. — *Spencer Johnson*
 
 ---
 
