@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Change happens when the pain of holding on becomes greater than the fear of letting go. — *Spencer Johnson*
+> Everything has beauty but not everyone sees it. — *Confucius*
 
 ---
 
