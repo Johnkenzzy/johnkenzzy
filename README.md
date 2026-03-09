@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Yesterday is gone. Tomorrow has not yet come. We have only today. — *Mother Teresa*
+> The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. — *Henry Ward Beecher*
 
 ---
 
