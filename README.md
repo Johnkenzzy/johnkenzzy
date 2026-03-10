@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. — *Henry Ward Beecher*
+> A dream doesn&#39;t become reality through magic it takes sweat, determination and hard work. — *Colin Powell*
 
 ---
 
