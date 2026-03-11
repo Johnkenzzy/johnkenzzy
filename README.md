@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A dream doesn&#39;t become reality through magic it takes sweat, determination and hard work. — *Colin Powell*
+> Receive without complaint, Work with fate. — *Ming-Dao Deng*
 
 ---
 
