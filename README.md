@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Receive without complaint, Work with fate. — *Ming-Dao Deng*
+> Just get out and do it. You will be very, very glad that you did. — *Christopher McCandless*
 
 ---
 
