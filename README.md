@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I put my heart and soul into my work, and I have lost my mind in the process. — *Vincent van Gogh*
+> A clear conscience never fears midnight knocking. — *Chinese Proverb*
 
 ---
 
