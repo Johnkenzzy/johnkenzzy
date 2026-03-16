@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A clear conscience never fears midnight knocking. — *Chinese Proverb*
+> There is no way to happiness - happiness is the way. — *Thich Nhat Hanh*
 
 ---
 
