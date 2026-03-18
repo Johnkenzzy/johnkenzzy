@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Sometimes it is more important to discover what one cannot do, than what one can do. — *Lin Yutang*
+> Catch, then, O catch the transient hour; Improve each moment as it flies!  — *St. Jerome*
 
 ---
 
