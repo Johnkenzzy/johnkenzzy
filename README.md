@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Catch, then, O catch the transient hour; Improve each moment as it flies!  — *St. Jerome*
+> Take responsibility of your own happiness, never put it in other people&#39;s hands. — *Roy T. Bennett*
 
 ---
 
