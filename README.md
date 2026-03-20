@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Take responsibility of your own happiness, never put it in other people&#39;s hands. — *Roy T. Bennett*
+> Be thankful for everything that happens in your life; it&#39;s all an experience. — *Roy T. Bennett*
 
 ---
 
