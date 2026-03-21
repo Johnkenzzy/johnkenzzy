@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be thankful for everything that happens in your life; it&#39;s all an experience. — *Roy T. Bennett*
+> Study logic and math, because once you&#39;ve mastered them, you won&#39;t fear any book. — *Naval Ravikant*
 
 ---
 
