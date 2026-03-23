@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes. — *Alfred Adler*
+> Even if you&#39;re sure you can win, be careful that you can live with what you lose. — *Gary Keller*
 
 ---
 
