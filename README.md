@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Even if you&#39;re sure you can win, be careful that you can live with what you lose. — *Gary Keller*
+> If you are far from the enemy, make him believe you are near. — *Sun Tzu*
 
 ---
 
