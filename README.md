@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you are far from the enemy, make him believe you are near. — *Sun Tzu*
+> No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way. — *Kamal Ravikant*
 
 ---
 
