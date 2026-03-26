@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way. — *Kamal Ravikant*
+> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. — *Norman Vincent Peale*
 
 ---
 
