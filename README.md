@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. — *Norman Vincent Peale*
+> The worst part of success is trying to find someone who is happy for you. — *Bette Midler*
 
 ---
 
