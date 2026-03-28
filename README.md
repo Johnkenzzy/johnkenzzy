@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The worst part of success is trying to find someone who is happy for you. — *Bette Midler*
+> The goal is not to be perfect by the end, the goal is to be better today. — *Simon Sinek*
 
 ---
 
