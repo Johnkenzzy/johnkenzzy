@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. — *Albus Dumbledore*
+> A man sees in the world what he carries in his heart. — *Johann Wolfgang von Goethe*
 
 ---
 
