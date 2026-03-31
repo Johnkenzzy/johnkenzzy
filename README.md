@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A man sees in the world what he carries in his heart. — *Johann Wolfgang von Goethe*
+> It&#39;s not what you pay a man, but what he costs you that counts. — *Will Rogers*
 
 ---
 
