@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s not what you pay a man, but what he costs you that counts. — *Will Rogers*
+> We can see through others only when we can see through ourselves. — *Bruce Lee*
 
 ---
 
