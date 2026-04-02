@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We can see through others only when we can see through ourselves. — *Bruce Lee*
+> Enjoy when you can, and endure when you must. — *Johann Wolfgang von Goethe*
 
 ---
 
