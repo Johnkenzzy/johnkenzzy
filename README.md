@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Enjoy when you can, and endure when you must. — *Johann Wolfgang von Goethe*
+> Anything worth doing is worth doing slowly. — *Mae West*
 
 ---
 
