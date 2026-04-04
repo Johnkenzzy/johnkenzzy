@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Anything worth doing is worth doing slowly. — *Mae West*
+> Begin at once to live, and count each separate day as a separate life.   — *Seneca*
 
 ---
 
