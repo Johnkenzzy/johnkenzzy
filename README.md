@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Begin at once to live, and count each separate day as a separate life.   — *Seneca*
+> Passion is born deaf and dumb. — *Honore de Balzac*
 
 ---
 
