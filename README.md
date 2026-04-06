@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Passion is born deaf and dumb. — *Honore de Balzac*
+> The trouble with most of us is that we&#39;d rather be ruined by praise than saved by criticism. — *Norman Vincent Peale*
 
 ---
 
