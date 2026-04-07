@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The trouble with most of us is that we&#39;d rather be ruined by praise than saved by criticism. — *Norman Vincent Peale*
+> A day wasted on others is not wasted on one&#39;s self. — *Charles Dickens*
 
 ---
 
