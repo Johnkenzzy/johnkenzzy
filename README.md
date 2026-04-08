@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A day wasted on others is not wasted on one&#39;s self. — *Charles Dickens*
+> You&#39;re never too old for anything. — *Betty White*
 
 ---
 
