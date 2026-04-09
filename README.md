@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You&#39;re never too old for anything. — *Betty White*
+> If I cannot do great things. I can do small things in a great way. — *Martin Luther King, Jr.*
 
 ---
 
