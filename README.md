@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If I cannot do great things. I can do small things in a great way. — *Martin Luther King, Jr.*
+> The important thing is not what one is born with but what use one makes of that equipment. — *Alfred Adler*
 
 ---
 
