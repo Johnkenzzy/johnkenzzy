@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The important thing is not what one is born with but what use one makes of that equipment. — *Alfred Adler*
+> It is not fair to ask of others what you are not willing to do yourself. — *Eleanor Roosevelt*
 
 ---
 
