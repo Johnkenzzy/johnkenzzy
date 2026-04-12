@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is not fair to ask of others what you are not willing to do yourself. — *Eleanor Roosevelt*
+> The single biggest problem in communication is the illusion that it has taken place. — *George Bernard Shaw*
 
 ---
 
