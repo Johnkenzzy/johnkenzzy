@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The single biggest problem in communication is the illusion that it has taken place. — *George Bernard Shaw*
+> We must have strong minds, ready to accept facts as they are. — *Harry S. Truman*
 
 ---
 
