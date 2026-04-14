@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We must have strong minds, ready to accept facts as they are. — *Harry S. Truman*
+> Without the confidence, nothing can be accomplished. — *Sathya Sai Baba*
 
 ---
 
