@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Without the confidence, nothing can be accomplished. — *Sathya Sai Baba*
+> Some of your greatest lessons come from your darkest moments. — *Roger Lee*
 
 ---
 
