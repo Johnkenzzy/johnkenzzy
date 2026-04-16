@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Some of your greatest lessons come from your darkest moments. — *Roger Lee*
+> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. — *Jon Kabat-Zinn*
 
 ---
 
