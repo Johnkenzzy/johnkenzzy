@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. — *Jon Kabat-Zinn*
+> Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. — *John D. Rockefeller*
 
 ---
 
