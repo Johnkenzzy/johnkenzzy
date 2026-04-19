@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You are not stuck where you are unless you decide to be.   — *Wayne Dyer*
+> Curiosity is the most powerful thing you own. — *James Cameron*
 
 ---
 
