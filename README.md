@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Curiosity is the most powerful thing you own. — *James Cameron*
+> Most people achieved their greatest success one step beyond what looked like their greatest failure. — *Brian Tracy*
 
 ---
 
