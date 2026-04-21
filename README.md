@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Most people achieved their greatest success one step beyond what looked like their greatest failure. — *Brian Tracy*
+> Would you rather live your life according to the approval of others or aligned with your truth and your dreams? — *Robin Sharma*
 
 ---
 
