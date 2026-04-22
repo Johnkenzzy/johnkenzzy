@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Would you rather live your life according to the approval of others or aligned with your truth and your dreams? — *Robin Sharma*
+> We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality. — *Vaclav Havel*
 
 ---
 
