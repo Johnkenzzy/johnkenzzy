@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality. — *Vaclav Havel*
+> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. — *Eleanor Roosevelt*
 
 ---
 
