@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The first principle of success is desire. — *Robert Collier*
+> The greatest deception men suffer is from their own opinions. — *Leonardo da Vinci*
 
 ---
 
