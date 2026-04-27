@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The greatest deception men suffer is from their own opinions. — *Leonardo da Vinci*
+> Either get busy living or get busy dying. — *Stephen King*
 
 ---
 
