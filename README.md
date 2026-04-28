@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Either get busy living or get busy dying. — *Stephen King*
+> In nature there is no alienation. Everything belongs. — *Ming-Dao Deng*
 
 ---
 
