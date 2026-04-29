@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> In nature there is no alienation. Everything belongs. — *Ming-Dao Deng*
+> I was wise enough to never grow up while fooling most people into believing I had.  — *Margaret Mead*
 
 ---
 
