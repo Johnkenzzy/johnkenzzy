@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Thinking will not overcome fear but action will.  — *W. Clement Stone*
+> If you want to achieve greatness stop asking for permission. — *Unknown*
 
 ---
 
