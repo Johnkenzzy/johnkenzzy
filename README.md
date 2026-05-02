@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you want to achieve greatness stop asking for permission. — *Unknown*
+> The opposite of courage in our society is not cowardice... it is conformity. — *Earl Nightingale*
 
 ---
 
