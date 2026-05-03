@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The opposite of courage in our society is not cowardice... it is conformity. — *Earl Nightingale*
+> Most of us will do anything to avoid facing ourselves. — *Lolly Daskal*
 
 ---
 
