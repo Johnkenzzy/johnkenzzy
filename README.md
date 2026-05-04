@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Most of us will do anything to avoid facing ourselves. — *Lolly Daskal*
+> We suffer more often in imagination than in reality.   — *Seneca*
 
 ---
 
