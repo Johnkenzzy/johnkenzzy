@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We suffer more often in imagination than in reality.   — *Seneca*
+> Success is an iceberg. — *Unknown*
 
 ---
 
