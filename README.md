@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Success is an iceberg. — *Unknown*
+> The healthiest response to life is joy. — *Deepak Chopra*
 
 ---
 
