@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Thinking is the hardest work there is. That is why so few people engage in it. — *Robert Kiyosaki*
+> A wise person should have money in their head, but not in their heart. — *Jonathan Swift*
 
 ---
 
