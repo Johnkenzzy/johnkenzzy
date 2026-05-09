@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A wise person should have money in their head, but not in their heart. — *Jonathan Swift*
+> Be not glad at the misfortune of another, though he may be your enemy.  — *George Washington*
 
 ---
 
