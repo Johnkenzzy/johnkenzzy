@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be not glad at the misfortune of another, though he may be your enemy.  — *George Washington*
+> If it&#39;s not broken, tinker with it till you find out how it works. — *Bob Proctor*
 
 ---
 
