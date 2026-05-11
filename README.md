@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If it&#39;s not broken, tinker with it till you find out how it works. — *Bob Proctor*
+> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. — *Kahlil Gibran*
 
 ---
 
