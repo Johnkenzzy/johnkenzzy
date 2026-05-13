@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Keep building, keep shipping 🚀
+> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it&#39;s the only thing that ever has. — *Margaret Mead*
 
 ---
 
