@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it&#39;s the only thing that ever has. — *Margaret Mead*
+> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — *Paulo Coelho*
 
 ---
 
