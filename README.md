@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — *Paulo Coelho*
+> Life comes at us in waves. We can&#39;t predict or control those waves, but we can learn to surf. — *Dan Millman*
 
 ---
 
