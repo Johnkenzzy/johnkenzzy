@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life comes at us in waves. We can&#39;t predict or control those waves, but we can learn to surf. — *Dan Millman*
+> The busy man is never wise and the wise man is never busy. — *Lin Yutang*
 
 ---
 
