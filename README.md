@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If I cannot do great things. I can do small things in a great way. — *Martin Luther King, Jr.*
+> You play the hand you&#39;re dealt. I think the game&#39;s worthwhile.   — *Christopher Reeve*
 
 ---
 
