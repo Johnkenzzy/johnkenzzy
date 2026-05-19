@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You play the hand you&#39;re dealt. I think the game&#39;s worthwhile.   — *Christopher Reeve*
+> Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all. — *Dale Carnegie*
 
 ---
 
