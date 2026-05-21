@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Judgments prevent us from seeing the good that lies beyond appearances.   — *Wayne Dyer*
+> Have a vision. Be demanding. — *Colin Powell*
 
 ---
 
