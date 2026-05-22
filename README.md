@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Have a vision. Be demanding. — *Colin Powell*
+> I am thankful to all who said no to me. It is because of them that I&#39;m doing it myself. — *Albert Einstein*
 
 ---
 
