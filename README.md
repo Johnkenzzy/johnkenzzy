@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I am thankful to all who said no to me. It is because of them that I&#39;m doing it myself. — *Albert Einstein*
+> We forge the chains we wear in life. — *Charles Dickens*
 
 ---
 
