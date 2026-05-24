@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We forge the chains we wear in life. — *Charles Dickens*
+> I would rather die on my feet than live on my knees. — *Euripides*
 
 ---
 
