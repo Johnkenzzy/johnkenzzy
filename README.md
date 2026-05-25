@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I would rather die on my feet than live on my knees. — *Euripides*
+> Fear is stupid. So are regrets. — *Marilyn Monroe*
 
 ---
 
