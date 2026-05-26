@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Fear is stupid. So are regrets. — *Marilyn Monroe*
+> Patience is bitter, but its fruit is sweet. — *Aristotle*
 
 ---
 
