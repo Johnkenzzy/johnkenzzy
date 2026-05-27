@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Patience is bitter, but its fruit is sweet. — *Aristotle*
+> The biggest adventure is what lies ahead. — *J.R.R. Tolkien*
 
 ---
 
