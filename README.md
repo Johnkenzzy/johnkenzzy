@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The biggest adventure is what lies ahead. — *J.R.R. Tolkien*
+> However difficult life may seem, there is always something you can do and succeed at. — *Stephen Hawking*
 
 ---
 
