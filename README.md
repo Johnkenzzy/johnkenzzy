@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> However difficult life may seem, there is always something you can do and succeed at. — *Stephen Hawking*
+> Knowing your own darkness is the best method for dealing with the darknesses of other people. — *Carl Jung*
 
 ---
 
