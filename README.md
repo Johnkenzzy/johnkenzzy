@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Knowing your own darkness is the best method for dealing with the darknesses of other people. — *Carl Jung*
+> Unlike the stomach, the brain doesn&#39;t alert you when it&#39;s empty. — *Arabic Proverb*
 
 ---
 
