@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Unlike the stomach, the brain doesn&#39;t alert you when it&#39;s empty. — *Arabic Proverb*
+> It&#39;s not the love you make. It&#39;s the love you give. — *Nikola Tesla*
 
 ---
 
