@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s not the love you make. It&#39;s the love you give. — *Nikola Tesla*
+> You must find the place inside yourself where nothing is impossible. — *Les Brown*
 
 ---
 
