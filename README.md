@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You must find the place inside yourself where nothing is impossible. — *Les Brown*
+> It is indeed a radical act of love just to sit down and be quiet for a time by yourself. — *Jon Kabat-Zinn*
 
 ---
 
