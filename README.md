@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is indeed a radical act of love just to sit down and be quiet for a time by yourself. — *Jon Kabat-Zinn*
+> Dance first. Think later. It&#39;s the natural order. — *Samuel Beckett*
 
 ---
 
