@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Dance first. Think later. It&#39;s the natural order. — *Samuel Beckett*
+> When you&#39;re the only sane person, you look like the only insane person. — *Criss Jami*
 
 ---
 
