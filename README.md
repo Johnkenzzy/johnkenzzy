@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> When you&#39;re the only sane person, you look like the only insane person. — *Criss Jami*
+> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — *Andrew Carnegie*
 
 ---
 
