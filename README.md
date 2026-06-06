@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — *Andrew Carnegie*
+> Quality is not an act, it is a habit. — *Colin R. Davis*
 
 ---
 
