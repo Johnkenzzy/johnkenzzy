@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Quality is not an act, it is a habit. — *Colin R. Davis*
+> You are not only responsible for what you say, but also for what you do not say. — *Martin Luther*
 
 ---
 
