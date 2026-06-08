@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You are not only responsible for what you say, but also for what you do not say. — *Martin Luther*
+> Why live an ordinary life, when you can live an extraordinary one. — *Tony Robbins*
 
 ---
 
