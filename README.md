@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Why live an ordinary life, when you can live an extraordinary one. — *Tony Robbins*
+> An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head. — *Eric Hoffer*
 
 ---
 
