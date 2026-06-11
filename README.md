@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Once a decision was made, I didn&#39;t worry about it afterward. — *Harry S. Truman*
+> To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. — *Criss Jami*
 
 ---
 
