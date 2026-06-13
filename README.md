@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A tiger doesn&#39;t lose sleep over the opinion of sheep. — *Shahir Zag*
+> We can choose to look at whatever we want.  We can look at what&#39;s wrong in our life or we can look at what&#39;s right. — *Sonia Ricotti*
 
 ---
 
