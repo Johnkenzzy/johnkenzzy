@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We can choose to look at whatever we want.  We can look at what&#39;s wrong in our life or we can look at what&#39;s right. — *Sonia Ricotti*
+> Nature loves to hide. — *Heraclitus*
 
 ---
 
