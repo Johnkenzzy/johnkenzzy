@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nature loves to hide. — *Heraclitus*
+> If you take responsibility for yourself you will develop a hunger to accomplish your dream. — *Les Brown*
 
 ---
 
