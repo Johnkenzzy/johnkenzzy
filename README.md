@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Those who realize their folly are not true fools. — *Zhuangzi*
+> When you know what you want, and want it bad enough, you will find a way to get it. — *Jim Rohn*
 
 ---
 
