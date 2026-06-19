@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Keep building, keep shipping 🚀
+> May you find grace as you surrender to life. May you find happiness, as you stop seeking it. — *Dan Millman*
 
 ---
 
