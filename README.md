@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> May you find grace as you surrender to life. May you find happiness, as you stop seeking it. — *Dan Millman*
+> We are all here for some special reason. — *Robin Sharma*
 
 ---
 
