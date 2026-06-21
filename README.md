@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We are all here for some special reason. — *Robin Sharma*
+> Just do what must be done. This may not be happiness but it is greatness. — *George Bernard Shaw*
 
 ---
 
