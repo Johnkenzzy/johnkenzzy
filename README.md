@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Just do what must be done. This may not be happiness but it is greatness. — *George Bernard Shaw*
+> If you don&#39;t like something, change it. If you can&#39;t change it, change your attitude. — *Maya Angelou*
 
 ---
 
