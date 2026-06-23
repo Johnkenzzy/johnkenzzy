@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you don&#39;t like something, change it. If you can&#39;t change it, change your attitude. — *Maya Angelou*
+> All men are equal before fish. — *Herbert Hoover*
 
 ---
 
