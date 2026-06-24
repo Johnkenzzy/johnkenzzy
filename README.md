@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> All men are equal before fish. — *Herbert Hoover*
+> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. — *Norman Vincent Peale*
 
 ---
 
