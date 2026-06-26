@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I don&#39;t pretend to know everything; I just only speak on matters I know I&#39;ll win. — *Criss Jami*
+> First say to yourself what you would be; and then do what you have to do. — *Epictetus*
 
 ---
 
