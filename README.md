@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> First say to yourself what you would be; and then do what you have to do. — *Epictetus*
+> The greatest step towards a life of simplicity is to learn to let go. — *Steve Maraboli*
 
 ---
 
