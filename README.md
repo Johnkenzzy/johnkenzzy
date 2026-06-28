@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The greatest step towards a life of simplicity is to learn to let go. — *Steve Maraboli*
+> You&#39;re braver than you believe, and stronger than you seem, and smarter than you think. — *A.A. Milne*
 
 ---
 
