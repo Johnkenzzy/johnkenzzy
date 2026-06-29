@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You&#39;re braver than you believe, and stronger than you seem, and smarter than you think. — *A.A. Milne*
+> I have lost friends, some by death...others by sheer inability to cross the street. — *Virginia Woolf*
 
 ---
 
