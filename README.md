@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I have lost friends, some by death...others by sheer inability to cross the street. — *Virginia Woolf*
+> If you run you stand a chance of losing, but if you don&#39;t run you&#39;ve already lost. — *Barack Obama*
 
 ---
 
