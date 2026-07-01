@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you run you stand a chance of losing, but if you don&#39;t run you&#39;ve already lost. — *Barack Obama*
+> Turn your wounds into wisdom. — *Oprah Winfrey*
 
 ---
 
