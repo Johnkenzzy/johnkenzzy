@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Turn your wounds into wisdom. — *Oprah Winfrey*
+> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. — *Ralph Marston*
 
 ---
 
