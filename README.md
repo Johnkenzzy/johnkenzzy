@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. — *Ralph Marston*
+> I can&#39;t change the direction of the wind, but I can adjust my sails to always reach my destination. — *Colin R. Davis*
 
 ---
 
