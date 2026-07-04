@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I can&#39;t change the direction of the wind, but I can adjust my sails to always reach my destination. — *Colin R. Davis*
+> Show me a hero, and I&#39;ll write you a tragedy. — *F. Scott Fitzgerald*
 
 ---
 
