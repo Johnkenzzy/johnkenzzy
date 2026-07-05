@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Show me a hero, and I&#39;ll write you a tragedy. — *F. Scott Fitzgerald*
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live. — *Robert F. Kennedy*
 
 ---
 
