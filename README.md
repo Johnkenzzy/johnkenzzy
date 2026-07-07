@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Reality is the leading cause of stress among those in touch with it. — *Lily Tomlin*
+> No great mind has ever existed without a touch of madness. — *Aristotle*
 
 ---
 
