@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> No great mind has ever existed without a touch of madness. — *Aristotle*
+> Getting lost along your path is a part of finding the path you are meant to be on. — *Robin Sharma*
 
 ---
 
