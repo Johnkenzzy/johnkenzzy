@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Getting lost along your path is a part of finding the path you are meant to be on. — *Robin Sharma*
+> It&#39;s your road, and yours alone, others may walk it with you, but no one can walk it for you. — *Rumi*
 
 ---
 
