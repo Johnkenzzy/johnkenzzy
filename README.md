@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s your road, and yours alone, others may walk it with you, but no one can walk it for you. — *Rumi*
+> The best way to find yourself is to lose yourself in the service of others. — *Mahatma Gandhi*
 
 ---
 
