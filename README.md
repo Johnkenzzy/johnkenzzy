@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The best way to find yourself is to lose yourself in the service of others. — *Mahatma Gandhi*
+> Giving is living. If you stop wanting to give, there&#39;s nothing more to live for. — *Audrey Hepburn*
 
 ---
 
