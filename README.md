@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Giving is living. If you stop wanting to give, there&#39;s nothing more to live for. — *Audrey Hepburn*
+> Growth is in a series of mistakes. That&#39;s the only way you learn. — *Steve Harvey*
 
 ---
 
