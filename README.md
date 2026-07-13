@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Growth is in a series of mistakes. That&#39;s the only way you learn. — *Steve Harvey*
+> Love is not about possession. Love is about appreciation. — *Osho*
 
 ---
 
