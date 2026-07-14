@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Love is not about possession. Love is about appreciation. — *Osho*
+> The only thing new in the world is the history you do not know. — *Harry S. Truman*
 
 ---
 
