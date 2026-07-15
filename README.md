@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The only thing new in the world is the history you do not know. — *Harry S. Truman*
+> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — *Paulo Coelho*
 
 ---
 
