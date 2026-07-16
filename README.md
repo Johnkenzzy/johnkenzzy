@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. — *Paulo Coelho*
+> Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth. — *Henry David Thoreau*
 
 ---
 
