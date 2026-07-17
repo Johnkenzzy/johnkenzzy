@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth. — *Henry David Thoreau*
+> Be polite to all, but intimate with few. — *Thomas Jefferson*
 
 ---
 
