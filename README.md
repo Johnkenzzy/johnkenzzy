@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Be polite to all, but intimate with few. — *Thomas Jefferson*
+> The first rule of handling conflict is don&#39;t hang around people who are constantly engaging in conflict. — *Naval Ravikant*
 
 ---
 
