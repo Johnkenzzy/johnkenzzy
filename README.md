@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The first rule of handling conflict is don&#39;t hang around people who are constantly engaging in conflict. — *Naval Ravikant*
+> The more you give, the more comes back to you. — *Napoleon Hill*
 
 ---
 
