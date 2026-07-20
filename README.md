@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The more you give, the more comes back to you. — *Napoleon Hill*
+> Words are the clothing of our thoughts. — *Jonathan Swift*
 
 ---
 
