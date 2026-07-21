@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Words are the clothing of our thoughts. — *Jonathan Swift*
+> Silence is a source of great strength. — *Lao Tzu*
 
 ---
 
