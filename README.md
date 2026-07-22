@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Silence is a source of great strength. — *Lao Tzu*
+> Nothing is really work unless you would rather be doing something else. — *James Matthew Barrie*
 
 ---
 
