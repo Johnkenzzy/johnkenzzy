@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing is really work unless you would rather be doing something else. — *James Matthew Barrie*
+> Failure is a great teacher. If you&#39;re open to it every mistake has a lesson to offer. — *Oprah Winfrey*
 
 ---
 
