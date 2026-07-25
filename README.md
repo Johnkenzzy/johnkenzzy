@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. — *John Lennon*
+> Meditate. It won&#39;t be fun but it will surface what you need to deal with. — *Naval Ravikant*
 
 ---
 
