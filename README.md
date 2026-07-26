@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Meditate. It won&#39;t be fun but it will surface what you need to deal with. — *Naval Ravikant*
+> Action may not always bring happiness, but there is no happiness without action. — *William James*
 
 ---
 
