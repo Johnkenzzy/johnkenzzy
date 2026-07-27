@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Action may not always bring happiness, but there is no happiness without action. — *William James*
+> It&#39;s only after you&#39;ve stepped outside your comfort zone that you begin to change, grow, and transform. — *Roy T. Bennett*
 
 ---
 
