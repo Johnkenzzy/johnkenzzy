@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> He who laughs at himself never runs out of things to laugh at. — *Epictetus*
+> I must also have a dark side if I am to be whole. — *Carl Jung*
 
 ---
 
