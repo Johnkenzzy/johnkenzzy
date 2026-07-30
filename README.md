@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I must also have a dark side if I am to be whole. — *Carl Jung*
+> A little impatience will spoil great plans. — *Chinese Proverb*
 
 ---
 
