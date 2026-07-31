@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A little impatience will spoil great plans. — *Chinese Proverb*
+> We ordinary people must forge our own beauty. — *Kenji Miyazawa*
 
 ---
 
