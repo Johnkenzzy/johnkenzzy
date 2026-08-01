@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We ordinary people must forge our own beauty. — *Kenji Miyazawa*
+> It is well known that those who do not trust themselves never trust others. — *Alfred Adler*
 
 ---
 
