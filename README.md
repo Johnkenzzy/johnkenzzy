@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is well known that those who do not trust themselves never trust others. — *Alfred Adler*
+> Perpetual optimism is a force multiplier. — *Colin Powell*
 
 ---
 
