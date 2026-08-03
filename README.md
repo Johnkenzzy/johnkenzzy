@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Perpetual optimism is a force multiplier. — *Colin Powell*
+> The key to success is failure. — *Michael Jordan*
 
 ---
 
