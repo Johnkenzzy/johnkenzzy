@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The key to success is failure. — *Michael Jordan*
+> Success is an iceberg. — *Unknown*
 
 ---
 
