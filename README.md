@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Success is an iceberg. — *Unknown*
+> Your time is limited, so don&#39;t waste it living someone elses. life. Don&#39;t be trapped by dogma - which is living with the results of other people&#39;s thinking. — *Steve Jobs*
 
 ---
 
