@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Your time is limited, so don&#39;t waste it living someone elses. life. Don&#39;t be trapped by dogma - which is living with the results of other people&#39;s thinking. — *Steve Jobs*
+> The less you talk about your shame, the more of it you have. — *Mark Manson*
 
 ---
 
