@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The less you talk about your shame, the more of it you have. — *Mark Manson*
+> Find something you love and do it better than everyone else. — *Gurbaksh Chahal*
 
 ---
 
