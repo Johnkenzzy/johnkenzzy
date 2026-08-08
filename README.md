@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Find something you love and do it better than everyone else. — *Gurbaksh Chahal*
+> Happiness depends on your mindset and attitude. — *Roy T. Bennett*
 
 ---
 
