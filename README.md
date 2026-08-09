@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Happiness depends on your mindset and attitude. — *Roy T. Bennett*
+> Nothing has any power over me other than that which I give it through my conscious thoughts. — *Tony Robbins*
 
 ---
 
