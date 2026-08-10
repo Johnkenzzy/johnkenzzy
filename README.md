@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing has any power over me other than that which I give it through my conscious thoughts. — *Tony Robbins*
+> Nothing endures but change. — *Heraclitus*
 
 ---
 
