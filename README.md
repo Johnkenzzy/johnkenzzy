@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing endures but change. — *Heraclitus*
+> The wise speak only of what they know. — *J.R.R. Tolkien*
 
 ---
 
