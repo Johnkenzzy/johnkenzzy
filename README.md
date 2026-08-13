@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Think how really precious is the time you have to spend, whether it&#39;s at work or with your family. Every minute should be enjoyed and savored. — *Earl Nightingale*
+> There is nothing better than the encouragement of a good friend. — *David Brinkley*
 
 ---
 
