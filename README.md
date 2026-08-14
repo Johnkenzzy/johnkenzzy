@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There is nothing better than the encouragement of a good friend. — *David Brinkley*
+> A moving door hinge never corrodes. Flowing water never grows stagnant. — *Ming-Dao Deng*
 
 ---
 
