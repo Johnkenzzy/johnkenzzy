@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A moving door hinge never corrodes. Flowing water never grows stagnant. — *Ming-Dao Deng*
+> To get angry is like to revenge yourself for the guilt of others. — *Jonathan Swift*
 
 ---
 
