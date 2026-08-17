@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. — *Nikola Tesla*
+> Our joy does not have to be based on our circumstances. — *Joyce Meyer*
 
 ---
 
