@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form. — *Paramahansa Yogananda*
+> Confidence is what you have before you understand the problem. — *Woody Allen*
 
 ---
 
