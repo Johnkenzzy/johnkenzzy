@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Confidence is what you have before you understand the problem. — *Woody Allen*
+> Give so much away people insist on paying you. — *Jack Butcher*
 
 ---
 
