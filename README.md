@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Give so much away people insist on paying you. — *Jack Butcher*
+> Humor isn&#39;t for everyone. It&#39;s only for people who want to have fun, enjoy life, and feel alive. — *Anne Wilson Schaef*
 
 ---
 
