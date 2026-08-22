@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Humor isn&#39;t for everyone. It&#39;s only for people who want to have fun, enjoy life, and feel alive. — *Anne Wilson Schaef*
+> A good character is the best tombstone. Carve your name on hearts, not on marble. — *Charles Spurgeon*
 
 ---
 
