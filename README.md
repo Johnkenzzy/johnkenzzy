@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A good character is the best tombstone. Carve your name on hearts, not on marble. — *Charles Spurgeon*
+> Love is the absence of judgment. — *Dalai Lama*
 
 ---
 
