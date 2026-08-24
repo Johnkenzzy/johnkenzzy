@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Love is the absence of judgment. — *Dalai Lama*
+> All men are equal before fish. — *Herbert Hoover*
 
 ---
 
