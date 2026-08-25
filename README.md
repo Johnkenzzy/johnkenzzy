@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> All men are equal before fish. — *Herbert Hoover*
+> It ain&#39;t where you start in life, it&#39;s where you end up, and what you did along the way. — *Colin Powell*
 
 ---
 
