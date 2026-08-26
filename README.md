@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It ain&#39;t where you start in life, it&#39;s where you end up, and what you did along the way. — *Colin Powell*
+> Happiness is not a goal...it&#39;s a by-product of a life well lived. — *Eleanor Roosevelt*
 
 ---
 
