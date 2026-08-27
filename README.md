@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Happiness is not a goal...it&#39;s a by-product of a life well lived. — *Eleanor Roosevelt*
+> What the eye doesn&#39;t see and the mind doesn&#39;t know, doesn&#39;t exist. — *D. H. Lawrence*
 
 ---
 
