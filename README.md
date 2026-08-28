@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What the eye doesn&#39;t see and the mind doesn&#39;t know, doesn&#39;t exist. — *D. H. Lawrence*
+> To lead the people, walk behind them. — *Lao Tzu*
 
 ---
 
