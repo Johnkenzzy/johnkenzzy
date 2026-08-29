@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> To lead the people, walk behind them. — *Lao Tzu*
+> Our greatest glory is not in never falling, but in rising every time we fall. — *Confucius*
 
 ---
 
