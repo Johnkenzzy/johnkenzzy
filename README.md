@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Our greatest glory is not in never falling, but in rising every time we fall. — *Confucius*
+> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found. — *Pema Chodron*
 
 ---
 
