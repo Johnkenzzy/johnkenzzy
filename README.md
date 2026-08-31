@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found. — *Pema Chodron*
+> Work out your own salvation. Do not depend on others. — *Buddha*
 
 ---
 
