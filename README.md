@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Work out your own salvation. Do not depend on others. — *Buddha*
+> In order to control myself I must first accept myself by going with and not against my nature. — *Bruce Lee*
 
 ---
 
