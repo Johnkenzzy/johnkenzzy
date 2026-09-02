@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> In order to control myself I must first accept myself by going with and not against my nature. — *Bruce Lee*
+> If there were no God, there would be no atheists. — *Gilbert Chesterton*
 
 ---
 
