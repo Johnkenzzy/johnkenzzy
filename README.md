@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If there were no God, there would be no atheists. — *Gilbert Chesterton*
+> If I can pay the bills, I&#39;m happy. — *Morgan Wootten*
 
 ---
 
