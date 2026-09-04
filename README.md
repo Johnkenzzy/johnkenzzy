@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If I can pay the bills, I&#39;m happy. — *Morgan Wootten*
+> There are no shortcuts to any place worth going. — *Beverly Sills*
 
 ---
 
