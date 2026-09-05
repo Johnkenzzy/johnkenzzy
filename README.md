@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There are no shortcuts to any place worth going. — *Beverly Sills*
+> It&#39;s only after you&#39;ve stepped outside your comfort zone that you begin to change, grow, and transform. — *Roy T. Bennett*
 
 ---
 
