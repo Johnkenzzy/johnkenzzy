@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It&#39;s only after you&#39;ve stepped outside your comfort zone that you begin to change, grow, and transform. — *Roy T. Bennett*
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations. — *Charles Swindoll*
 
 ---
 
