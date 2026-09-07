@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations. — *Charles Swindoll*
+> Obstacles don&#39;t block the path, they are the path. — *Zen Proverb*
 
 ---
 
