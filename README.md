@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Obstacles don&#39;t block the path, they are the path. — *Zen Proverb*
+> An action committed in anger is an action doomed to failure. — *Genghis Khan*
 
 ---
 
