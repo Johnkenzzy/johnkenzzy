@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> An action committed in anger is an action doomed to failure. — *Genghis Khan*
+> The only place success comes before work is in the dictionary. — *Vince Lombardi*
 
 ---
 
