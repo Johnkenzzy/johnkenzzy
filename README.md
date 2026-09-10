@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The only place success comes before work is in the dictionary. — *Vince Lombardi*
+> Throw your heart over the bar and your body will follow. — *Norman Vincent Peale*
 
 ---
 
