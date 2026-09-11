@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Throw your heart over the bar and your body will follow. — *Norman Vincent Peale*
+> Self-control is strength. — *James Allen*
 
 ---
 
