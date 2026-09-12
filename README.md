@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Self-control is strength. — *James Allen*
+> Memory is the scribe of the soul. — *Aristotle*
 
 ---
 
