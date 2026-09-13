@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Memory is the scribe of the soul. — *Aristotle*
+> In order to attain the impossible, one must attempt the absurd. — *Miguel de Cervantes*
 
 ---
 
