@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> In order to attain the impossible, one must attempt the absurd. — *Miguel de Cervantes*
+> As a man thinketh in his heart, so shall he be. — *James Allen*
 
 ---
 
