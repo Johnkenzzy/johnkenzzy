@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> As a man thinketh in his heart, so shall he be. — *James Allen*
+> Optimism is the one quality more associated with success and happiness than any other. — *Brian Tracy*
 
 ---
 
