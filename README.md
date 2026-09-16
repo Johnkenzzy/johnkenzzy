@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Optimism is the one quality more associated with success and happiness than any other. — *Brian Tracy*
+> He who leaves the game wins it. — *Nicolas Chamfort*
 
 ---
 
