@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> He who leaves the game wins it. — *Nicolas Chamfort*
+> Life is ten percent what you experience and ninety percent how you respond to it. — *Unknown*
 
 ---
 
