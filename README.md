@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life is ten percent what you experience and ninety percent how you respond to it. — *Unknown*
+> People tend to complicate their own lives, as if living weren&#39;t already complicated enough. — *Carlos Ruiz Zafon*
 
 ---
 
