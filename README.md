@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> People tend to complicate their own lives, as if living weren&#39;t already complicated enough. — *Carlos Ruiz Zafon*
+> Give so much away people insist on paying you. — *Jack Butcher*
 
 ---
 
