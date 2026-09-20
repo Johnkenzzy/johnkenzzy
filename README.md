@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Give so much away people insist on paying you. — *Jack Butcher*
+> No one ever said life was fair. Just Eventful. — *Carol Burnett*
 
 ---
 
