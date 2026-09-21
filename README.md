@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> No one ever said life was fair. Just Eventful. — *Carol Burnett*
+> Rest and be kind, you don&#39;t have to prove anything. — *Jack Kerouac*
 
 ---
 
