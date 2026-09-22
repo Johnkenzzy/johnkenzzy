@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Rest and be kind, you don&#39;t have to prove anything. — *Jack Kerouac*
+> Others can stop you temporarily - you are the only one who can do it permanently. — *Zig Ziglar*
 
 ---
 
