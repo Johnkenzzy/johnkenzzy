@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Others can stop you temporarily - you are the only one who can do it permanently. — *Zig Ziglar*
+> Life is like stepping onto a boat which is about to sail out to sea and sink. — *Shunryu Suzuki*
 
 ---
 
