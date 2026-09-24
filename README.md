@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life is like stepping onto a boat which is about to sail out to sea and sink. — *Shunryu Suzuki*
+> Blessed is he who expects nothing, for he shall never be disappointed. — *Alexander Pope*
 
 ---
 
