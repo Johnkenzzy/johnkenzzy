@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Blessed is he who expects nothing, for he shall never be disappointed. — *Alexander Pope*
+> The only reason to be alive is to enjoy it. — *Rita Mae Brown*
 
 ---
 
