@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The only reason to be alive is to enjoy it. — *Rita Mae Brown*
+> It is easy to discover what another has discovered before. — *Christopher Columbus*
 
 ---
 
