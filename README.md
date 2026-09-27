@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is easy to discover what another has discovered before. — *Christopher Columbus*
+> If you need inspiration, don&#39;t do it. — *Elon Musk*
 
 ---
 
