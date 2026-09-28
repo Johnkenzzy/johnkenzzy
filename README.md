@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you need inspiration, don&#39;t do it. — *Elon Musk*
+> Life is the art of drawing sufficient conclusions from insufficient premises. — *Samuel Butler*
 
 ---
 
