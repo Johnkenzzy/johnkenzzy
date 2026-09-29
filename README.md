@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life is the art of drawing sufficient conclusions from insufficient premises. — *Samuel Butler*
+> As a matter of fact is an expression that precedes many an expression that isn&#39;t. — *Laurence J. Peter*
 
 ---
 
