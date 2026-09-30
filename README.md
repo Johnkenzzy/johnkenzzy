@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> As a matter of fact is an expression that precedes many an expression that isn&#39;t. — *Laurence J. Peter*
+> The only thing we have to fear is fear itself. — *Franklin D. Roosevelt*
 
 ---
 
