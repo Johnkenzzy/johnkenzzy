@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The only thing we have to fear is fear itself. — *Franklin D. Roosevelt*
+> As you think, you travel, and as you love, you attract. — *James Allen*
 
 ---
 
