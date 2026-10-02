@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> As you think, you travel, and as you love, you attract. — *James Allen*
+> Tall oaks grow from little acorns. — *Andrew Carnegie*
 
 ---
 
