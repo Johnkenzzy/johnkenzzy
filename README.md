@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. — *Stephen King*
+> If you&#39;re not making mistakes, then you&#39;re not doing anything. — *John Wooden*
 
 ---
 
