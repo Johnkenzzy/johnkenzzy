@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you&#39;re not making mistakes, then you&#39;re not doing anything. — *John Wooden*
+> The highest form of ignorance is when you reject something you don&#39;t know anything about. — *Wayne Dyer*
 
 ---
 
