@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The highest form of ignorance is when you reject something you don&#39;t know anything about. — *Wayne Dyer*
+> Never do to others what you would not like them to do to you. — *Confucius*
 
 ---
 
