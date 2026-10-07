@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Never do to others what you would not like them to do to you. — *Confucius*
+> If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. — *Simon Sinek*
 
 ---
 
