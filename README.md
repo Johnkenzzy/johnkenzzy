@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. — *Simon Sinek*
+> The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. — *Carl Jung*
 
 ---
 
