@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. — *Carl Jung*
+> The first rule of business; treat others like they want to treat you. — *Charles Dickens*
 
 ---
 
