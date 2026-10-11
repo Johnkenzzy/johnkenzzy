@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Problems remain as problems because people are busy defending them rather than finding solutions. — *Celestine Chua*
+> It is better to disappoint people with the truth than to appease them with a lie. — *Simon Sinek*
 
 ---
 
