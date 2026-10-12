@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> It is better to disappoint people with the truth than to appease them with a lie. — *Simon Sinek*
+> Thinking is difficult, that&#39;s why most people judge. — *Carl Jung*
 
 ---
 
