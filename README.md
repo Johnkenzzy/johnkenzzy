@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Thinking is difficult, that&#39;s why most people judge. — *Carl Jung*
+> Don&#39;t be afraid to give up the good to go for the great. — *Colin R. Davis*
 
 ---
 
