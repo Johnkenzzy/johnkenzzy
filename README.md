@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Don&#39;t be afraid to give up the good to go for the great. — *Colin R. Davis*
+> Open your eyes and look within. Are you satisfied with the life you&#39;re living? — *Bob Marley*
 
 ---
 
