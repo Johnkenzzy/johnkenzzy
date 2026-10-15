@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Open your eyes and look within. Are you satisfied with the life you&#39;re living? — *Bob Marley*
+> Some of us learn from other people&#39;s mistakes and the rest of us have to be other people. — *Zig Ziglar*
 
 ---
 
