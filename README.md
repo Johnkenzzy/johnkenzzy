@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Some of us learn from other people&#39;s mistakes and the rest of us have to be other people. — *Zig Ziglar*
+> We can&#39;t help everyone, but everyone can help someone. — *Ronald Reagan*
 
 ---
 
