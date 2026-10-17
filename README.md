@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> We can&#39;t help everyone, but everyone can help someone. — *Ronald Reagan*
+> None but ourselves can free our minds. — *Bob Marley*
 
 ---
 
