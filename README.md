@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> None but ourselves can free our minds. — *Bob Marley*
+> If no one ever broke the rules, then we&#39;d never advance. — *Simon Sinek*
 
 ---
 
