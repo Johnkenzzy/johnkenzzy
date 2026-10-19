@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If no one ever broke the rules, then we&#39;d never advance. — *Simon Sinek*
+> Loss is nothing else but change and change is nature&#39;s delight. — *Marcus Aurelius*
 
 ---
 
