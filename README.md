@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Loss is nothing else but change and change is nature&#39;s delight. — *Marcus Aurelius*
+> To lose your temper is only useful once a year. — *Colin R. Davis*
 
 ---
 
