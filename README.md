@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> To lose your temper is only useful once a year. — *Colin R. Davis*
+> What gets measured gets improved. — *Robin Sharma*
 
 ---
 
