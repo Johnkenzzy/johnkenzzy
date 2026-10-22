@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> What gets measured gets improved. — *Robin Sharma*
+> Don&#39;t spend time beating on a wall, hoping to transform it into a door. — *Coco Chanel*
 
 ---
 
