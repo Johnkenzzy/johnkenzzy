@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Don&#39;t spend time beating on a wall, hoping to transform it into a door. — *Coco Chanel*
+> I will not walk backward in life. — *J.R.R. Tolkien*
 
 ---
 
