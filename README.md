@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> I will not walk backward in life. — *J.R.R. Tolkien*
+> Nothing important is learned; it is simply remembered. — *Carlos Ruiz Zafon*
 
 ---
 
