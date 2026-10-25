@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nothing important is learned; it is simply remembered. — *Carlos Ruiz Zafon*
+> Awaken. Take heed, do not squander your life. — *Dogen*
 
 ---
 
