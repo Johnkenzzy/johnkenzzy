@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Awaken. Take heed, do not squander your life. — *Dogen*
+> Insanity: doing the same thing over and over again and expecting different results. — *Albert Einstein*
 
 ---
 
