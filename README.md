@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Insanity: doing the same thing over and over again and expecting different results. — *Albert Einstein*
+> In the middle of difficulty lies opportunity. — *Albert Einstein*
 
 ---
 
