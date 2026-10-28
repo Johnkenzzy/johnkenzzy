@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> In the middle of difficulty lies opportunity. — *Albert Einstein*
+> Don&#39;t risk what is important to you, to get what is not important to you. — *Warren Buffett*
 
 ---
 
