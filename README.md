@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Don&#39;t risk what is important to you, to get what is not important to you. — *Warren Buffett*
+> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. — *Jon Kabat-Zinn*
 
 ---
 
