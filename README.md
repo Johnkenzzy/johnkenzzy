@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. — *Jon Kabat-Zinn*
+> As you think, you travel, and as you love, you attract. — *James Allen*
 
 ---
 
