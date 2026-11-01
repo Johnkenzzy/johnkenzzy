@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You win more from losing than winning. — *Morgan Wootten*
+> A wise person should have money in their head, but not in their heart. — *Jonathan Swift*
 
 ---
 
