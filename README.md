@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> A wise person should have money in their head, but not in their heart. — *Jonathan Swift*
+> Management is doing things right; leadership is doing the right things. — *Peter Drucker*
 
 ---
 
