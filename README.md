@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Management is doing things right; leadership is doing the right things. — *Peter Drucker*
+> Ripe fruit falls by itself - but it doesn&#39;t fall in your mouth. — *Chinese Proverb*
 
 ---
 
