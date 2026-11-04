@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Ripe fruit falls by itself - but it doesn&#39;t fall in your mouth. — *Chinese Proverb*
+> Success is getting what you want. Happiness is wanting what you get. — *Andrew Carnegie*
 
 ---
 
