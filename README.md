@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Success is getting what you want. Happiness is wanting what you get. — *Andrew Carnegie*
+> There are more people who wish to be loved than there are who are willing to love. — *Nicolas Chamfort*
 
 ---
 
