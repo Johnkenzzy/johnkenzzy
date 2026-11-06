@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> There are more people who wish to be loved than there are who are willing to love. — *Nicolas Chamfort*
+> How much pain they have cost us, the evils which have never happened. — *Thomas Jefferson*
 
 ---
 
