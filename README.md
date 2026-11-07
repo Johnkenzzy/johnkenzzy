@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> How much pain they have cost us, the evils which have never happened. — *Thomas Jefferson*
+> Honesty is the first chapter in the book of wisdom. — *Thomas Jefferson*
 
 ---
 
