@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Honesty is the first chapter in the book of wisdom. — *Thomas Jefferson*
+> No one is useless in this world who lightens the burdens of another. — *Charles Dickens*
 
 ---
 
