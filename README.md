@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> No one is useless in this world who lightens the burdens of another. — *Charles Dickens*
+> Trying to define yourself is like trying to bite your own teeth. — *Zen Proverb*
 
 ---
 
