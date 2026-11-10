@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Trying to define yourself is like trying to bite your own teeth. — *Zen Proverb*
+> Cease striving. Then there will be transformation. — *Zhuangzi*
 
 ---
 
