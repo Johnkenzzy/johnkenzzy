@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Cease striving. Then there will be transformation. — *Zhuangzi*
+> If I can pay the bills, I&#39;m happy. — *Morgan Wootten*
 
 ---
 
