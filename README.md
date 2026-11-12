@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> If I can pay the bills, I&#39;m happy. — *Morgan Wootten*
+> Nobody goes through life without a scar. — *Carol Burnett*
 
 ---
 
