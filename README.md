@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Nobody goes through life without a scar. — *Carol Burnett*
+> The truth is rarely pure and never simple. — *Oscar Wilde*
 
 ---
 
