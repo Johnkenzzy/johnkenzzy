@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. — *Jack London*
+> Better late than never. — *Spencer Johnson*
 
 ---
 
