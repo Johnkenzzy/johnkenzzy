@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Better late than never. — *Spencer Johnson*
+> People who have goals succeed because they know where they&#39;re going. It&#39;s that simple. — *Earl Nightingale*
 
 ---
 
