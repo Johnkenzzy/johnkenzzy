@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> People who have goals succeed because they know where they&#39;re going. It&#39;s that simple. — *Earl Nightingale*
+> High thoughts must have high language. — *Aristophanes*
 
 ---
 
