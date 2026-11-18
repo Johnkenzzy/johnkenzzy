@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> High thoughts must have high language. — *Aristophanes*
+> While some of us act without thinking, too many of us think without acting. — *Dan Millman*
 
 ---
 
