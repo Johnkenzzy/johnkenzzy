@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> While some of us act without thinking, too many of us think without acting. — *Dan Millman*
+> Where violence reigns, reason is weak. — *Nicolas Chamfort*
 
 ---
 
