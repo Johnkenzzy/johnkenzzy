@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Where violence reigns, reason is weak. — *Nicolas Chamfort*
+> The greatest discovery of all time is that a person can change their future by merely changing their attitude. — *Oprah Winfrey*
 
 ---
 
