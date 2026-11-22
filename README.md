@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> You don&#39;t need to be better than anyone else, you just need to be better than you used to be. — *Wayne Dyer*
+> Remain calm. Be kind. — *Colin Powell*
 
 ---
 
