@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Remain calm. Be kind. — *Colin Powell*
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — *Winston Churchill*
 
 ---
 
