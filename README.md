@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential. — *Winston Churchill*
+> Receive without complaint, Work with fate. — *Ming-Dao Deng*
 
 ---
 
