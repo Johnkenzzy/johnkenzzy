@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Receive without complaint, Work with fate. — *Ming-Dao Deng*
+> The best way to predict the future is to create it. — *Abraham Lincoln*
 
 ---
 
