@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> The best way to predict the future is to create it. — *Abraham Lincoln*
+> Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity. — *Og Mandino*
 
 ---
 
