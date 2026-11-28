@@ -161,7 +161,7 @@
 ---
 
 ## ✨ Quote of the Day
-> Always try to be a little kinder than necessary. — *James Matthew Barrie*
+> If you spend too much time thinking about a thing, you&#39;ll never get it done. — *Bruce Lee*
 
 ---
 
